@@ -1,0 +1,1628 @@
+2024-04-09 13:23:03 - INFO - Initializing ThreadPool with 8 threads.
+2024-04-09 13:23:09 - INFO - -------------------
+2024-04-09 13:23:09 - INFO - Received request (POST) for best5 with data: {'question': 'Percent of adults aged 18 years and older who have an overweight classification'}
+2024-04-09 13:23:09 - INFO - Registering job with ID: job_id_1
+2024-04-09 13:23:09 - INFO - Job job_id_1 added to the queue.
+2024-04-09 13:23:09 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:09 - INFO - Calculating best5 for question: Percent of adults aged 18 years and older who have an overweight classification
+2024-04-09 13:23:09 - INFO - Calculating states_means for question: Percent of adults aged 18 years and older who have an overweight classification
+2024-04-09 13:23:09 - INFO - Received request (GET) for job results - JobID: job_id_1.
+2024-04-09 13:23:09 - INFO - Job job_id_1 is still running or the result file is not yet available.
+2024-04-09 13:23:09 - INFO - Calculated states_means and sorted for question: Percent of adults aged 18 years and older who have an overweight classification
+2024-04-09 13:23:09 - INFO - Calculated first 5 values for question: Percent of adults aged 18 years and older who have an overweight classification
+2024-04-09 13:23:09 - INFO - Result for job job_id_1 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_1.json.
+2024-04-09 13:23:09 - INFO - Successfully processed job job_id_1 in 6.36 seconds.
+2024-04-09 13:23:09 - INFO - Received request (GET) for job results - JobID: job_id_1.
+2024-04-09 13:23:09 - INFO - Job job_id_1 is done.
+2024-04-09 13:23:09 - INFO - -------------------
+2024-04-09 13:23:09 - INFO - Received request (POST) for best5 with data: {'question': 'Percent of adults aged 18 years and older who have obesity'}
+2024-04-09 13:23:09 - INFO - Registering job with ID: job_id_2
+2024-04-09 13:23:09 - INFO - Job job_id_2 added to the queue.
+2024-04-09 13:23:09 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:09 - INFO - Calculating best5 for question: Percent of adults aged 18 years and older who have obesity
+2024-04-09 13:23:09 - INFO - Calculating states_means for question: Percent of adults aged 18 years and older who have obesity
+2024-04-09 13:23:09 - INFO - Received request (GET) for job results - JobID: job_id_2.
+2024-04-09 13:23:09 - INFO - Job job_id_2 is still running or the result file is not yet available.
+2024-04-09 13:23:09 - INFO - Calculated states_means and sorted for question: Percent of adults aged 18 years and older who have obesity
+2024-04-09 13:23:09 - INFO - Calculated first 5 values for question: Percent of adults aged 18 years and older who have obesity
+2024-04-09 13:23:09 - INFO - Result for job job_id_2 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_2.json.
+2024-04-09 13:23:09 - INFO - Successfully processed job job_id_2 in 6.59 seconds.
+2024-04-09 13:23:09 - INFO - Received request (GET) for job results - JobID: job_id_2.
+2024-04-09 13:23:09 - INFO - Job job_id_2 is done.
+2024-04-09 13:23:09 - INFO - -------------------
+2024-04-09 13:23:09 - INFO - Received request (POST) for best5 with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)'}
+2024-04-09 13:23:09 - INFO - Registering job with ID: job_id_3
+2024-04-09 13:23:09 - INFO - Job job_id_3 added to the queue.
+2024-04-09 13:23:09 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:09 - INFO - Calculating best5 for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:09 - INFO - Calculating states_means for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:09 - INFO - Calculated states_means and sorted for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:09 - INFO - Received request (GET) for job results - JobID: job_id_3.
+2024-04-09 13:23:09 - INFO - Calculated first 5 values for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:09 - INFO - Job job_id_3 is still running or the result file is not yet available.
+2024-04-09 13:23:09 - INFO - Result for job job_id_3 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_3.json.
+2024-04-09 13:23:09 - INFO - Successfully processed job job_id_3 in 6.82 seconds.
+2024-04-09 13:23:10 - INFO - Received request (GET) for job results - JobID: job_id_3.
+2024-04-09 13:23:10 - INFO - Job job_id_3 is done.
+2024-04-09 13:23:10 - INFO - -------------------
+2024-04-09 13:23:10 - INFO - Received request (POST) for best5 with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week'}
+2024-04-09 13:23:10 - INFO - Registering job with ID: job_id_4
+2024-04-09 13:23:10 - INFO - Job job_id_4 added to the queue.
+2024-04-09 13:23:10 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:10 - INFO - Calculating best5 for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:10 - INFO - Calculating states_means for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:10 - INFO - Calculated states_means and sorted for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:10 - INFO - Received request (GET) for job results - JobID: job_id_4.
+2024-04-09 13:23:10 - INFO - Calculated first 5 values for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:10 - INFO - Job job_id_4 is still running or the result file is not yet available.
+2024-04-09 13:23:10 - INFO - Result for job job_id_4 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_4.json.
+2024-04-09 13:23:10 - INFO - Successfully processed job job_id_4 in 7.04 seconds.
+2024-04-09 13:23:10 - INFO - Received request (GET) for job results - JobID: job_id_4.
+2024-04-09 13:23:10 - INFO - Job job_id_4 is done.
+2024-04-09 13:23:10 - INFO - -------------------
+2024-04-09 13:23:10 - INFO - Received request (POST) for best5 with data: {'question': 'Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)'}
+2024-04-09 13:23:10 - INFO - Registering job with ID: job_id_5
+2024-04-09 13:23:10 - INFO - Job job_id_5 added to the queue.
+2024-04-09 13:23:10 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:10 - INFO - Calculating best5 for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:10 - INFO - Calculating states_means for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:10 - INFO - Received request (GET) for job results - JobID: job_id_5.
+2024-04-09 13:23:10 - INFO - Calculated states_means and sorted for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:10 - INFO - Job job_id_5 is still running or the result file is not yet available.
+2024-04-09 13:23:10 - INFO - Calculated first 5 values for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:10 - INFO - Result for job job_id_5 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_5.json.
+2024-04-09 13:23:10 - INFO - Successfully processed job job_id_5 in 7.26 seconds.
+2024-04-09 13:23:10 - INFO - Received request (GET) for job results - JobID: job_id_5.
+2024-04-09 13:23:10 - INFO - Job job_id_5 is done.
+2024-04-09 13:23:10 - INFO - -------------------
+2024-04-09 13:23:10 - INFO - Received request (POST) for best5 with data: {'question': 'Percent of adults who engage in muscle-strengthening activities on 2 or more days a week'}
+2024-04-09 13:23:10 - INFO - Registering job with ID: job_id_6
+2024-04-09 13:23:10 - INFO - Job job_id_6 added to the queue.
+2024-04-09 13:23:10 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:10 - INFO - Calculating best5 for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:10 - INFO - Calculating states_means for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:10 - INFO - Received request (GET) for job results - JobID: job_id_6.
+2024-04-09 13:23:10 - INFO - Job job_id_6 is still running or the result file is not yet available.
+2024-04-09 13:23:10 - INFO - Calculated states_means and sorted for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:10 - INFO - Calculated first 5 values for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:10 - INFO - Result for job job_id_6 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_6.json.
+2024-04-09 13:23:10 - INFO - Successfully processed job job_id_6 in 7.50 seconds.
+2024-04-09 13:23:10 - INFO - Received request (GET) for job results - JobID: job_id_6.
+2024-04-09 13:23:10 - INFO - Job job_id_6 is done.
+2024-04-09 13:23:10 - INFO - -------------------
+2024-04-09 13:23:10 - INFO - Received request (POST) for best5 with data: {'question': 'Percent of adults who engage in no leisure-time physical activity'}
+2024-04-09 13:23:10 - INFO - Registering job with ID: job_id_7
+2024-04-09 13:23:10 - INFO - Job job_id_7 added to the queue.
+2024-04-09 13:23:10 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:10 - INFO - Calculating best5 for question: Percent of adults who engage in no leisure-time physical activity
+2024-04-09 13:23:10 - INFO - Calculating states_means for question: Percent of adults who engage in no leisure-time physical activity
+2024-04-09 13:23:10 - INFO - Received request (GET) for job results - JobID: job_id_7.
+2024-04-09 13:23:10 - INFO - Calculated states_means and sorted for question: Percent of adults who engage in no leisure-time physical activity
+2024-04-09 13:23:10 - INFO - Job job_id_7 is still running or the result file is not yet available.
+2024-04-09 13:23:10 - INFO - Calculated first 5 values for question: Percent of adults who engage in no leisure-time physical activity
+2024-04-09 13:23:10 - INFO - Result for job job_id_7 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_7.json.
+2024-04-09 13:23:10 - INFO - Successfully processed job job_id_7 in 7.74 seconds.
+2024-04-09 13:23:10 - INFO - Received request (GET) for job results - JobID: job_id_7.
+2024-04-09 13:23:10 - INFO - Job job_id_7 is done.
+2024-04-09 13:23:10 - INFO - -------------------
+2024-04-09 13:23:10 - INFO - Received request (POST) for best5 with data: {'question': 'Percent of adults who report consuming fruit less than one time daily'}
+2024-04-09 13:23:10 - INFO - Registering job with ID: job_id_8
+2024-04-09 13:23:10 - INFO - Job job_id_8 added to the queue.
+2024-04-09 13:23:10 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:10 - INFO - Calculating best5 for question: Percent of adults who report consuming fruit less than one time daily
+2024-04-09 13:23:10 - INFO - Calculating states_means for question: Percent of adults who report consuming fruit less than one time daily
+2024-04-09 13:23:11 - INFO - Calculated states_means and sorted for question: Percent of adults who report consuming fruit less than one time daily
+2024-04-09 13:23:11 - INFO - Received request (GET) for job results - JobID: job_id_8.
+2024-04-09 13:23:11 - INFO - Calculated first 5 values for question: Percent of adults who report consuming fruit less than one time daily
+2024-04-09 13:23:11 - INFO - Job job_id_8 is still running or the result file is not yet available.
+2024-04-09 13:23:11 - INFO - Result for job job_id_8 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_8.json.
+2024-04-09 13:23:11 - INFO - Successfully processed job job_id_8 in 7.96 seconds.
+2024-04-09 13:23:11 - INFO - Received request (GET) for job results - JobID: job_id_8.
+2024-04-09 13:23:11 - INFO - Job job_id_8 is done.
+2024-04-09 13:23:11 - INFO - -------------------
+2024-04-09 13:23:11 - INFO - Received request (POST) for best5 with data: {'question': 'Percent of adults who report consuming vegetables less than one time daily'}
+2024-04-09 13:23:11 - INFO - Registering job with ID: job_id_9
+2024-04-09 13:23:11 - INFO - Job job_id_9 added to the queue.
+2024-04-09 13:23:11 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:11 - INFO - Calculating best5 for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:11 - INFO - Calculating states_means for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:11 - INFO - Received request (GET) for job results - JobID: job_id_9.
+2024-04-09 13:23:11 - INFO - Calculated states_means and sorted for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:11 - INFO - Job job_id_9 is still running or the result file is not yet available.
+2024-04-09 13:23:11 - INFO - Calculated first 5 values for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:11 - INFO - Result for job job_id_9 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_9.json.
+2024-04-09 13:23:11 - INFO - Successfully processed job job_id_9 in 1.84 seconds.
+2024-04-09 13:23:11 - INFO - Received request (GET) for job results - JobID: job_id_9.
+2024-04-09 13:23:11 - INFO - Job job_id_9 is done.
+2024-04-09 13:23:11 - INFO - -------------------
+2024-04-09 13:23:11 - INFO - Received request (POST) for diff_from_mean with data: {'question': 'Percent of adults aged 18 years and older who have an overweight classification'}
+2024-04-09 13:23:11 - INFO - Registering job with ID: job_id_10
+2024-04-09 13:23:11 - INFO - Job job_id_10 added to the queue.
+2024-04-09 13:23:11 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:11 - INFO - Calculating diff_from_mean for question: Percent of adults aged 18 years and older who have an overweight classification
+2024-04-09 13:23:11 - INFO - Calculating global_mean for question: Percent of adults aged 18 years and older who have an overweight classification
+2024-04-09 13:23:11 - INFO - Received request (GET) for job results - JobID: job_id_10.
+2024-04-09 13:23:11 - INFO - Calculated global_mean for question: Percent of adults aged 18 years and older who have an overweight classification
+2024-04-09 13:23:11 - INFO - Job job_id_10 is still running or the result file is not yet available.
+2024-04-09 13:23:11 - INFO - Calculating states_means for question: Percent of adults aged 18 years and older who have an overweight classification
+2024-04-09 13:23:11 - INFO - Calculated states_means and sorted for question: Percent of adults aged 18 years and older who have an overweight classification
+2024-04-09 13:23:11 - INFO - Calculated difference from global mean for question: Percent of adults aged 18 years and older who have an overweight classification
+2024-04-09 13:23:11 - INFO - Result for job job_id_10 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_10.json.
+2024-04-09 13:23:11 - INFO - Successfully processed job job_id_10 in 1.86 seconds.
+2024-04-09 13:23:11 - INFO - Received request (GET) for job results - JobID: job_id_10.
+2024-04-09 13:23:11 - INFO - Job job_id_10 is done.
+2024-04-09 13:23:11 - INFO - -------------------
+2024-04-09 13:23:11 - INFO - Received request (POST) for diff_from_mean with data: {'question': 'Percent of adults aged 18 years and older who have obesity'}
+2024-04-09 13:23:11 - INFO - Registering job with ID: job_id_11
+2024-04-09 13:23:11 - INFO - Job job_id_11 added to the queue.
+2024-04-09 13:23:11 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:11 - INFO - Calculating diff_from_mean for question: Percent of adults aged 18 years and older who have obesity
+2024-04-09 13:23:11 - INFO - Calculating global_mean for question: Percent of adults aged 18 years and older who have obesity
+2024-04-09 13:23:11 - INFO - Calculated global_mean for question: Percent of adults aged 18 years and older who have obesity
+2024-04-09 13:23:11 - INFO - Received request (GET) for job results - JobID: job_id_11.
+2024-04-09 13:23:11 - INFO - Calculating states_means for question: Percent of adults aged 18 years and older who have obesity
+2024-04-09 13:23:11 - INFO - Job job_id_11 is still running or the result file is not yet available.
+2024-04-09 13:23:11 - INFO - Calculated states_means and sorted for question: Percent of adults aged 18 years and older who have obesity
+2024-04-09 13:23:11 - INFO - Calculated difference from global mean for question: Percent of adults aged 18 years and older who have obesity
+2024-04-09 13:23:11 - INFO - Result for job job_id_11 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_11.json.
+2024-04-09 13:23:11 - INFO - Successfully processed job job_id_11 in 1.85 seconds.
+2024-04-09 13:23:11 - INFO - Received request (GET) for job results - JobID: job_id_11.
+2024-04-09 13:23:11 - INFO - Job job_id_11 is done.
+2024-04-09 13:23:11 - INFO - -------------------
+2024-04-09 13:23:11 - INFO - Received request (POST) for diff_from_mean with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)'}
+2024-04-09 13:23:11 - INFO - Registering job with ID: job_id_12
+2024-04-09 13:23:11 - INFO - Job job_id_12 added to the queue.
+2024-04-09 13:23:11 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:11 - INFO - Calculating diff_from_mean for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:11 - INFO - Calculating global_mean for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:11 - INFO - Calculated global_mean for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:11 - INFO - Received request (GET) for job results - JobID: job_id_12.
+2024-04-09 13:23:11 - INFO - Calculating states_means for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:11 - INFO - Job job_id_12 is still running or the result file is not yet available.
+2024-04-09 13:23:11 - INFO - Calculated states_means and sorted for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:11 - INFO - Calculated difference from global mean for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:11 - INFO - Result for job job_id_12 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_12.json.
+2024-04-09 13:23:11 - INFO - Successfully processed job job_id_12 in 1.86 seconds.
+2024-04-09 13:23:12 - INFO - Received request (GET) for job results - JobID: job_id_12.
+2024-04-09 13:23:12 - INFO - Job job_id_12 is done.
+2024-04-09 13:23:12 - INFO - -------------------
+2024-04-09 13:23:12 - INFO - Received request (POST) for diff_from_mean with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week'}
+2024-04-09 13:23:12 - INFO - Registering job with ID: job_id_13
+2024-04-09 13:23:12 - INFO - Job job_id_13 added to the queue.
+2024-04-09 13:23:12 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:12 - INFO - Calculating diff_from_mean for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:12 - INFO - Calculating global_mean for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:12 - INFO - Calculated global_mean for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:12 - INFO - Received request (GET) for job results - JobID: job_id_13.
+2024-04-09 13:23:12 - INFO - Calculating states_means for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:12 - INFO - Job job_id_13 is still running or the result file is not yet available.
+2024-04-09 13:23:12 - INFO - Calculated states_means and sorted for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:12 - INFO - Calculated difference from global mean for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:12 - INFO - Result for job job_id_13 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_13.json.
+2024-04-09 13:23:12 - INFO - Successfully processed job job_id_13 in 1.86 seconds.
+2024-04-09 13:23:12 - INFO - Received request (GET) for job results - JobID: job_id_13.
+2024-04-09 13:23:12 - INFO - Job job_id_13 is done.
+2024-04-09 13:23:12 - INFO - -------------------
+2024-04-09 13:23:12 - INFO - Received request (POST) for diff_from_mean with data: {'question': 'Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)'}
+2024-04-09 13:23:12 - INFO - Registering job with ID: job_id_14
+2024-04-09 13:23:12 - INFO - Job job_id_14 added to the queue.
+2024-04-09 13:23:12 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:12 - INFO - Calculating diff_from_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:12 - INFO - Calculating global_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:12 - INFO - Calculated global_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:12 - INFO - Received request (GET) for job results - JobID: job_id_14.
+2024-04-09 13:23:12 - INFO - Calculating states_means for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:12 - INFO - Job job_id_14 is still running or the result file is not yet available.
+2024-04-09 13:23:12 - INFO - Calculated states_means and sorted for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:12 - INFO - Calculated difference from global mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:12 - INFO - Result for job job_id_14 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_14.json.
+2024-04-09 13:23:12 - INFO - Successfully processed job job_id_14 in 1.83 seconds.
+2024-04-09 13:23:12 - INFO - Received request (GET) for job results - JobID: job_id_14.
+2024-04-09 13:23:12 - INFO - Job job_id_14 is done.
+2024-04-09 13:23:12 - INFO - -------------------
+2024-04-09 13:23:12 - INFO - Received request (POST) for diff_from_mean with data: {'question': 'Percent of adults who engage in muscle-strengthening activities on 2 or more days a week'}
+2024-04-09 13:23:12 - INFO - Registering job with ID: job_id_15
+2024-04-09 13:23:12 - INFO - Job job_id_15 added to the queue.
+2024-04-09 13:23:12 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:12 - INFO - Calculating diff_from_mean for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:12 - INFO - Calculating global_mean for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:12 - INFO - Calculated global_mean for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:12 - INFO - Calculating states_means for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:12 - INFO - Received request (GET) for job results - JobID: job_id_15.
+2024-04-09 13:23:12 - INFO - Calculated states_means and sorted for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:12 - INFO - Job job_id_15 is still running or the result file is not yet available.
+2024-04-09 13:23:12 - INFO - Calculated difference from global mean for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:12 - INFO - Result for job job_id_15 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_15.json.
+2024-04-09 13:23:12 - INFO - Successfully processed job job_id_15 in 1.82 seconds.
+2024-04-09 13:23:12 - INFO - Received request (GET) for job results - JobID: job_id_15.
+2024-04-09 13:23:12 - INFO - Job job_id_15 is done.
+2024-04-09 13:23:12 - INFO - -------------------
+2024-04-09 13:23:12 - INFO - Received request (POST) for diff_from_mean with data: {'question': 'Percent of adults who engage in no leisure-time physical activity'}
+2024-04-09 13:23:12 - INFO - Registering job with ID: job_id_16
+2024-04-09 13:23:12 - INFO - Job job_id_16 added to the queue.
+2024-04-09 13:23:12 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:12 - INFO - Calculating diff_from_mean for question: Percent of adults who engage in no leisure-time physical activity
+2024-04-09 13:23:12 - INFO - Calculating global_mean for question: Percent of adults who engage in no leisure-time physical activity
+2024-04-09 13:23:12 - INFO - Received request (GET) for job results - JobID: job_id_16.
+2024-04-09 13:23:12 - INFO - Calculated global_mean for question: Percent of adults who engage in no leisure-time physical activity
+2024-04-09 13:23:12 - INFO - Job job_id_16 is still running or the result file is not yet available.
+2024-04-09 13:23:12 - INFO - Calculating states_means for question: Percent of adults who engage in no leisure-time physical activity
+2024-04-09 13:23:12 - INFO - Calculated states_means and sorted for question: Percent of adults who engage in no leisure-time physical activity
+2024-04-09 13:23:12 - INFO - Calculated difference from global mean for question: Percent of adults who engage in no leisure-time physical activity
+2024-04-09 13:23:12 - INFO - Result for job job_id_16 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_16.json.
+2024-04-09 13:23:12 - INFO - Successfully processed job job_id_16 in 1.84 seconds.
+2024-04-09 13:23:13 - INFO - Received request (GET) for job results - JobID: job_id_16.
+2024-04-09 13:23:13 - INFO - Job job_id_16 is done.
+2024-04-09 13:23:13 - INFO - -------------------
+2024-04-09 13:23:13 - INFO - Received request (POST) for diff_from_mean with data: {'question': 'Percent of adults who report consuming fruit less than one time daily'}
+2024-04-09 13:23:13 - INFO - Registering job with ID: job_id_17
+2024-04-09 13:23:13 - INFO - Job job_id_17 added to the queue.
+2024-04-09 13:23:13 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:13 - INFO - Calculating diff_from_mean for question: Percent of adults who report consuming fruit less than one time daily
+2024-04-09 13:23:13 - INFO - Calculating global_mean for question: Percent of adults who report consuming fruit less than one time daily
+2024-04-09 13:23:13 - INFO - Received request (GET) for job results - JobID: job_id_17.
+2024-04-09 13:23:13 - INFO - Calculated global_mean for question: Percent of adults who report consuming fruit less than one time daily
+2024-04-09 13:23:13 - INFO - Job job_id_17 is still running or the result file is not yet available.
+2024-04-09 13:23:13 - INFO - Calculating states_means for question: Percent of adults who report consuming fruit less than one time daily
+2024-04-09 13:23:13 - INFO - Calculated states_means and sorted for question: Percent of adults who report consuming fruit less than one time daily
+2024-04-09 13:23:13 - INFO - Calculated difference from global mean for question: Percent of adults who report consuming fruit less than one time daily
+2024-04-09 13:23:13 - INFO - Result for job job_id_17 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_17.json.
+2024-04-09 13:23:13 - INFO - Successfully processed job job_id_17 in 1.82 seconds.
+2024-04-09 13:23:13 - INFO - Received request (GET) for job results - JobID: job_id_17.
+2024-04-09 13:23:13 - INFO - Job job_id_17 is done.
+2024-04-09 13:23:13 - INFO - -------------------
+2024-04-09 13:23:13 - INFO - Received request (POST) for diff_from_mean with data: {'question': 'Percent of adults who report consuming vegetables less than one time daily'}
+2024-04-09 13:23:13 - INFO - Registering job with ID: job_id_18
+2024-04-09 13:23:13 - INFO - Job job_id_18 added to the queue.
+2024-04-09 13:23:13 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:13 - INFO - Calculating diff_from_mean for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:13 - INFO - Calculating global_mean for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:13 - INFO - Calculated global_mean for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:13 - INFO - Received request (GET) for job results - JobID: job_id_18.
+2024-04-09 13:23:13 - INFO - Calculating states_means for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:13 - INFO - Job job_id_18 is still running or the result file is not yet available.
+2024-04-09 13:23:13 - INFO - Calculated states_means and sorted for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:13 - INFO - Calculated difference from global mean for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:13 - INFO - Result for job job_id_18 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_18.json.
+2024-04-09 13:23:13 - INFO - Successfully processed job job_id_18 in 1.80 seconds.
+2024-04-09 13:23:13 - INFO - Received request (GET) for job results - JobID: job_id_18.
+2024-04-09 13:23:13 - INFO - Job job_id_18 is done.
+2024-04-09 13:23:13 - INFO - -------------------
+2024-04-09 13:23:13 - INFO - Received request (POST) for global_mean with data: {'question': 'Percent of adults aged 18 years and older who have an overweight classification'}
+2024-04-09 13:23:13 - INFO - Registering job with ID: job_id_19
+2024-04-09 13:23:13 - INFO - Job job_id_19 added to the queue.
+2024-04-09 13:23:13 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:13 - INFO - Calculating global_mean for question: Percent of adults aged 18 years and older who have an overweight classification
+2024-04-09 13:23:13 - INFO - Calculated global_mean for question: Percent of adults aged 18 years and older who have an overweight classification
+2024-04-09 13:23:13 - INFO - Received request (GET) for job results - JobID: job_id_19.
+2024-04-09 13:23:13 - INFO - Result for job job_id_19 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_19.json.
+2024-04-09 13:23:13 - INFO - Successfully processed job job_id_19 in 1.81 seconds.
+2024-04-09 13:23:13 - INFO - Job job_id_19 is done.
+2024-04-09 13:23:13 - INFO - -------------------
+2024-04-09 13:23:13 - INFO - Received request (POST) for global_mean with data: {'question': 'Percent of adults aged 18 years and older who have obesity'}
+2024-04-09 13:23:13 - INFO - Registering job with ID: job_id_20
+2024-04-09 13:23:13 - INFO - Job job_id_20 added to the queue.
+2024-04-09 13:23:13 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:13 - INFO - Calculating global_mean for question: Percent of adults aged 18 years and older who have obesity
+2024-04-09 13:23:13 - INFO - Calculated global_mean for question: Percent of adults aged 18 years and older who have obesity
+2024-04-09 13:23:13 - INFO - Received request (GET) for job results - JobID: job_id_20.
+2024-04-09 13:23:13 - INFO - Job job_id_20 is done.
+2024-04-09 13:23:13 - INFO - Result for job job_id_20 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_20.json.
+2024-04-09 13:23:13 - INFO - Successfully processed job job_id_20 in 1.59 seconds.
+2024-04-09 13:23:13 - INFO - -------------------
+2024-04-09 13:23:13 - INFO - Received request (POST) for global_mean with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)'}
+2024-04-09 13:23:13 - INFO - Registering job with ID: job_id_21
+2024-04-09 13:23:13 - INFO - Job job_id_21 added to the queue.
+2024-04-09 13:23:13 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:13 - INFO - Calculating global_mean for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:13 - INFO - Calculated global_mean for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:13 - INFO - Received request (GET) for job results - JobID: job_id_21.
+2024-04-09 13:23:13 - INFO - Job job_id_21 is still running or the result file is not yet available.
+2024-04-09 13:23:13 - INFO - Result for job job_id_21 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_21.json.
+2024-04-09 13:23:13 - INFO - Successfully processed job job_id_21 in 1.38 seconds.
+2024-04-09 13:23:13 - INFO - Received request (GET) for job results - JobID: job_id_21.
+2024-04-09 13:23:13 - INFO - Job job_id_21 is done.
+2024-04-09 13:23:13 - INFO - -------------------
+2024-04-09 13:23:13 - INFO - Received request (POST) for global_mean with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week'}
+2024-04-09 13:23:13 - INFO - Registering job with ID: job_id_22
+2024-04-09 13:23:13 - INFO - Job job_id_22 added to the queue.
+2024-04-09 13:23:13 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:13 - INFO - Calculating global_mean for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:13 - INFO - Calculated global_mean for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:13 - INFO - Received request (GET) for job results - JobID: job_id_22.
+2024-04-09 13:23:13 - INFO - Job job_id_22 is still running or the result file is not yet available.
+2024-04-09 13:23:13 - INFO - Result for job job_id_22 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_22.json.
+2024-04-09 13:23:13 - INFO - Successfully processed job job_id_22 in 1.38 seconds.
+2024-04-09 13:23:13 - INFO - Received request (GET) for job results - JobID: job_id_22.
+2024-04-09 13:23:13 - INFO - Job job_id_22 is done.
+2024-04-09 13:23:13 - INFO - -------------------
+2024-04-09 13:23:13 - INFO - Received request (POST) for global_mean with data: {'question': 'Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)'}
+2024-04-09 13:23:13 - INFO - Registering job with ID: job_id_23
+2024-04-09 13:23:13 - INFO - Job job_id_23 added to the queue.
+2024-04-09 13:23:13 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:13 - INFO - Calculating global_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:13 - INFO - Calculated global_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:13 - INFO - Received request (GET) for job results - JobID: job_id_23.
+2024-04-09 13:23:13 - INFO - Job job_id_23 is done.
+2024-04-09 13:23:13 - INFO - Result for job job_id_23 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_23.json.
+2024-04-09 13:23:13 - INFO - Successfully processed job job_id_23 in 1.37 seconds.
+2024-04-09 13:23:13 - INFO - -------------------
+2024-04-09 13:23:13 - INFO - Received request (POST) for global_mean with data: {'question': 'Percent of adults who engage in muscle-strengthening activities on 2 or more days a week'}
+2024-04-09 13:23:13 - INFO - Registering job with ID: job_id_24
+2024-04-09 13:23:13 - INFO - Job job_id_24 added to the queue.
+2024-04-09 13:23:13 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:13 - INFO - Calculating global_mean for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:13 - INFO - Calculated global_mean for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:14 - INFO - Received request (GET) for job results - JobID: job_id_24.
+2024-04-09 13:23:14 - INFO - Job job_id_24 is done.
+2024-04-09 13:23:14 - INFO - Result for job job_id_24 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_24.json.
+2024-04-09 13:23:14 - INFO - Successfully processed job job_id_24 in 1.16 seconds.
+2024-04-09 13:23:14 - INFO - -------------------
+2024-04-09 13:23:14 - INFO - Received request (POST) for global_mean with data: {'question': 'Percent of adults who engage in no leisure-time physical activity'}
+2024-04-09 13:23:14 - INFO - Registering job with ID: job_id_25
+2024-04-09 13:23:14 - INFO - Job job_id_25 added to the queue.
+2024-04-09 13:23:14 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:14 - INFO - Calculating global_mean for question: Percent of adults who engage in no leisure-time physical activity
+2024-04-09 13:23:14 - INFO - Calculated global_mean for question: Percent of adults who engage in no leisure-time physical activity
+2024-04-09 13:23:14 - INFO - Received request (GET) for job results - JobID: job_id_25.
+2024-04-09 13:23:14 - INFO - Result for job job_id_25 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_25.json.
+2024-04-09 13:23:14 - INFO - Successfully processed job job_id_25 in 0.94 seconds.
+2024-04-09 13:23:14 - INFO - Job job_id_25 is done.
+2024-04-09 13:23:14 - INFO - -------------------
+2024-04-09 13:23:14 - INFO - Received request (POST) for global_mean with data: {'question': 'Percent of adults who report consuming fruit less than one time daily'}
+2024-04-09 13:23:14 - INFO - Registering job with ID: job_id_26
+2024-04-09 13:23:14 - INFO - Job job_id_26 added to the queue.
+2024-04-09 13:23:14 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:14 - INFO - Calculating global_mean for question: Percent of adults who report consuming fruit less than one time daily
+2024-04-09 13:23:14 - INFO - Calculated global_mean for question: Percent of adults who report consuming fruit less than one time daily
+2024-04-09 13:23:14 - INFO - Received request (GET) for job results - JobID: job_id_26.
+2024-04-09 13:23:14 - INFO - Job job_id_26 is done.
+2024-04-09 13:23:14 - INFO - Result for job job_id_26 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_26.json.
+2024-04-09 13:23:14 - INFO - Successfully processed job job_id_26 in 0.73 seconds.
+2024-04-09 13:23:14 - INFO - -------------------
+2024-04-09 13:23:14 - INFO - Received request (POST) for global_mean with data: {'question': 'Percent of adults who report consuming vegetables less than one time daily'}
+2024-04-09 13:23:14 - INFO - Registering job with ID: job_id_27
+2024-04-09 13:23:14 - INFO - Job job_id_27 added to the queue.
+2024-04-09 13:23:14 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:14 - INFO - Calculating global_mean for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:14 - INFO - Calculated global_mean for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:14 - INFO - Received request (GET) for job results - JobID: job_id_27.
+2024-04-09 13:23:14 - INFO - Result for job job_id_27 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_27.json.
+2024-04-09 13:23:14 - INFO - Successfully processed job job_id_27 in 0.51 seconds.
+2024-04-09 13:23:14 - INFO - Job job_id_27 is done.
+2024-04-09 13:23:14 - INFO - -------------------
+2024-04-09 13:23:14 - INFO - Received request (POST) for mean_by_category with data: {'question': 'Percent of adults aged 18 years and older who have an overweight classification'}
+2024-04-09 13:23:14 - INFO - Registering job with ID: job_id_28
+2024-04-09 13:23:14 - INFO - Job job_id_28 added to the queue.
+2024-04-09 13:23:14 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:14 - INFO - Calculating mean_by_category for question: Percent of adults aged 18 years and older who have an overweight classification
+2024-04-09 13:23:14 - INFO - Received request (GET) for job results - JobID: job_id_28.
+2024-04-09 13:23:14 - INFO - Job job_id_28 is still running or the result file is not yet available.
+2024-04-09 13:23:14 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults aged 18 years and older who have an overweight classification
+2024-04-09 13:23:14 - INFO - Result for job job_id_28 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_28.json.
+2024-04-09 13:23:14 - INFO - Successfully processed job job_id_28 in 0.59 seconds.
+2024-04-09 13:23:14 - INFO - Received request (GET) for job results - JobID: job_id_28.
+2024-04-09 13:23:14 - INFO - Job job_id_28 is done.
+2024-04-09 13:23:14 - INFO - -------------------
+2024-04-09 13:23:14 - INFO - Received request (POST) for mean_by_category with data: {'question': 'Percent of adults aged 18 years and older who have obesity'}
+2024-04-09 13:23:14 - INFO - Registering job with ID: job_id_29
+2024-04-09 13:23:14 - INFO - Job job_id_29 added to the queue.
+2024-04-09 13:23:14 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:14 - INFO - Calculating mean_by_category for question: Percent of adults aged 18 years and older who have obesity
+2024-04-09 13:23:14 - INFO - Received request (GET) for job results - JobID: job_id_29.
+2024-04-09 13:23:14 - INFO - Job job_id_29 is still running or the result file is not yet available.
+2024-04-09 13:23:14 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults aged 18 years and older who have obesity
+2024-04-09 13:23:14 - INFO - Result for job job_id_29 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_29.json.
+2024-04-09 13:23:14 - INFO - Successfully processed job job_id_29 in 0.87 seconds.
+2024-04-09 13:23:14 - INFO - Received request (GET) for job results - JobID: job_id_29.
+2024-04-09 13:23:14 - INFO - Job job_id_29 is done.
+2024-04-09 13:23:14 - INFO - -------------------
+2024-04-09 13:23:14 - INFO - Received request (POST) for mean_by_category with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)'}
+2024-04-09 13:23:14 - INFO - Registering job with ID: job_id_30
+2024-04-09 13:23:14 - INFO - Job job_id_30 added to the queue.
+2024-04-09 13:23:14 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:14 - INFO - Calculating mean_by_category for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:14 - INFO - Received request (GET) for job results - JobID: job_id_30.
+2024-04-09 13:23:14 - INFO - Job job_id_30 is still running or the result file is not yet available.
+2024-04-09 13:23:14 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:14 - INFO - Result for job job_id_30 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_30.json.
+2024-04-09 13:23:14 - INFO - Successfully processed job job_id_30 in 0.88 seconds.
+2024-04-09 13:23:14 - INFO - Received request (GET) for job results - JobID: job_id_30.
+2024-04-09 13:23:14 - INFO - Job job_id_30 is done.
+2024-04-09 13:23:14 - INFO - -------------------
+2024-04-09 13:23:14 - INFO - Received request (POST) for mean_by_category with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week'}
+2024-04-09 13:23:14 - INFO - Registering job with ID: job_id_31
+2024-04-09 13:23:14 - INFO - Job job_id_31 added to the queue.
+2024-04-09 13:23:14 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:14 - INFO - Calculating mean_by_category for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:14 - INFO - Received request (GET) for job results - JobID: job_id_31.
+2024-04-09 13:23:14 - INFO - Job job_id_31 is still running or the result file is not yet available.
+2024-04-09 13:23:14 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:14 - INFO - Result for job job_id_31 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_31.json.
+2024-04-09 13:23:14 - INFO - Successfully processed job job_id_31 in 0.90 seconds.
+2024-04-09 13:23:15 - INFO - Received request (GET) for job results - JobID: job_id_31.
+2024-04-09 13:23:15 - INFO - Job job_id_31 is done.
+2024-04-09 13:23:15 - INFO - -------------------
+2024-04-09 13:23:15 - INFO - Received request (POST) for mean_by_category with data: {'question': 'Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)'}
+2024-04-09 13:23:15 - INFO - Registering job with ID: job_id_32
+2024-04-09 13:23:15 - INFO - Job job_id_32 added to the queue.
+2024-04-09 13:23:15 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:15 - INFO - Calculating mean_by_category for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:15 - INFO - Received request (GET) for job results - JobID: job_id_32.
+2024-04-09 13:23:15 - INFO - Job job_id_32 is still running or the result file is not yet available.
+2024-04-09 13:23:15 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:15 - INFO - Result for job job_id_32 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_32.json.
+2024-04-09 13:23:15 - INFO - Successfully processed job job_id_32 in 1.16 seconds.
+2024-04-09 13:23:15 - INFO - Received request (GET) for job results - JobID: job_id_32.
+2024-04-09 13:23:15 - INFO - Job job_id_32 is done.
+2024-04-09 13:23:15 - INFO - -------------------
+2024-04-09 13:23:15 - INFO - Received request (POST) for mean_by_category with data: {'question': 'Percent of adults who engage in muscle-strengthening activities on 2 or more days a week'}
+2024-04-09 13:23:15 - INFO - Registering job with ID: job_id_33
+2024-04-09 13:23:15 - INFO - Job job_id_33 added to the queue.
+2024-04-09 13:23:15 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:15 - INFO - Calculating mean_by_category for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:15 - INFO - Received request (GET) for job results - JobID: job_id_33.
+2024-04-09 13:23:15 - INFO - Job job_id_33 is still running or the result file is not yet available.
+2024-04-09 13:23:15 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:15 - INFO - Result for job job_id_33 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_33.json.
+2024-04-09 13:23:15 - INFO - Successfully processed job job_id_33 in 1.40 seconds.
+2024-04-09 13:23:15 - INFO - Received request (GET) for job results - JobID: job_id_33.
+2024-04-09 13:23:15 - INFO - Job job_id_33 is done.
+2024-04-09 13:23:15 - INFO - -------------------
+2024-04-09 13:23:15 - INFO - Received request (POST) for mean_by_category with data: {'question': 'Percent of adults who engage in no leisure-time physical activity'}
+2024-04-09 13:23:15 - INFO - Registering job with ID: job_id_34
+2024-04-09 13:23:15 - INFO - Job job_id_34 added to the queue.
+2024-04-09 13:23:15 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:15 - INFO - Calculating mean_by_category for question: Percent of adults who engage in no leisure-time physical activity
+2024-04-09 13:23:15 - INFO - Received request (GET) for job results - JobID: job_id_34.
+2024-04-09 13:23:15 - INFO - Job job_id_34 is still running or the result file is not yet available.
+2024-04-09 13:23:15 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults who engage in no leisure-time physical activity
+2024-04-09 13:23:15 - INFO - Result for job job_id_34 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_34.json.
+2024-04-09 13:23:15 - INFO - Successfully processed job job_id_34 in 1.64 seconds.
+2024-04-09 13:23:15 - INFO - Received request (GET) for job results - JobID: job_id_34.
+2024-04-09 13:23:15 - INFO - Job job_id_34 is done.
+2024-04-09 13:23:15 - INFO - -------------------
+2024-04-09 13:23:15 - INFO - Received request (POST) for mean_by_category with data: {'question': 'Percent of adults who report consuming fruit less than one time daily'}
+2024-04-09 13:23:15 - INFO - Registering job with ID: job_id_35
+2024-04-09 13:23:15 - INFO - Job job_id_35 added to the queue.
+2024-04-09 13:23:15 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:15 - INFO - Calculating mean_by_category for question: Percent of adults who report consuming fruit less than one time daily
+2024-04-09 13:23:15 - INFO - Received request (GET) for job results - JobID: job_id_35.
+2024-04-09 13:23:15 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults who report consuming fruit less than one time daily
+2024-04-09 13:23:15 - INFO - Job job_id_35 is still running or the result file is not yet available.
+2024-04-09 13:23:15 - INFO - Result for job job_id_35 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_35.json.
+2024-04-09 13:23:15 - INFO - Successfully processed job job_id_35 in 1.85 seconds.
+2024-04-09 13:23:16 - INFO - Received request (GET) for job results - JobID: job_id_35.
+2024-04-09 13:23:16 - INFO - Job job_id_35 is done.
+2024-04-09 13:23:16 - INFO - -------------------
+2024-04-09 13:23:16 - INFO - Received request (POST) for mean_by_category with data: {'question': 'Percent of adults who report consuming vegetables less than one time daily'}
+2024-04-09 13:23:16 - INFO - Registering job with ID: job_id_36
+2024-04-09 13:23:16 - INFO - Job job_id_36 added to the queue.
+2024-04-09 13:23:16 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:16 - INFO - Calculating mean_by_category for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:16 - INFO - Received request (GET) for job results - JobID: job_id_36.
+2024-04-09 13:23:16 - INFO - Job job_id_36 is still running or the result file is not yet available.
+2024-04-09 13:23:16 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:16 - INFO - Result for job job_id_36 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_36.json.
+2024-04-09 13:23:16 - INFO - Successfully processed job job_id_36 in 2.03 seconds.
+2024-04-09 13:23:16 - INFO - Received request (GET) for job results - JobID: job_id_36.
+2024-04-09 13:23:16 - INFO - Job job_id_36 is done.
+2024-04-09 13:23:16 - INFO - -------------------
+2024-04-09 13:23:16 - INFO - Received request (POST) for state_diff_from_mean with data: {'question': 'Percent of adults who report consuming vegetables less than one time daily', 'state': 'Virgin Islands'}
+2024-04-09 13:23:16 - INFO - Registering job with ID: job_id_37
+2024-04-09 13:23:16 - INFO - Job job_id_37 added to the queue.
+2024-04-09 13:23:16 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:16 - INFO - Calculating state_diff_from_mean for question: Percent of adults who report consuming vegetables less than one time daily and state: Virgin Islands
+2024-04-09 13:23:16 - INFO - Calculating global_mean for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:16 - INFO - Calculated global_mean for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:16 - INFO - Received request (GET) for job results - JobID: job_id_37.
+2024-04-09 13:23:16 - INFO - Calculating state_means for question: Percent of adults who report consuming vegetables less than one time daily and state: Virgin Islands
+2024-04-09 13:23:16 - INFO - Job job_id_37 is still running or the result file is not yet available.
+2024-04-09 13:23:16 - INFO - Calculated average value for question: Percent of adults who report consuming vegetables less than one time daily and state: Virgin Islands
+2024-04-09 13:23:16 - INFO - Calculated difference from global mean for question: Percent of adults who report consuming vegetables less than one time daily and state:
+        Virgin Islands
+2024-04-09 13:23:16 - INFO - Result for job job_id_37 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_37.json.
+2024-04-09 13:23:16 - INFO - Successfully processed job job_id_37 in 1.98 seconds.
+2024-04-09 13:23:16 - INFO - Received request (GET) for job results - JobID: job_id_37.
+2024-04-09 13:23:16 - INFO - Job job_id_37 is done.
+2024-04-09 13:23:16 - INFO - -------------------
+2024-04-09 13:23:16 - INFO - Received request (POST) for state_diff_from_mean with data: {'question': 'Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)', 'state': 'Texas'}
+2024-04-09 13:23:16 - INFO - Registering job with ID: job_id_38
+2024-04-09 13:23:16 - INFO - Job job_id_38 added to the queue.
+2024-04-09 13:23:16 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:16 - INFO - Calculating state_diff_from_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Texas
+2024-04-09 13:23:16 - INFO - Calculating global_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:16 - INFO - Calculated global_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:16 - INFO - Received request (GET) for job results - JobID: job_id_38.
+2024-04-09 13:23:16 - INFO - Calculating state_means for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Texas
+2024-04-09 13:23:16 - INFO - Job job_id_38 is still running or the result file is not yet available.
+2024-04-09 13:23:16 - INFO - Calculated average value for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Texas
+2024-04-09 13:23:16 - INFO - Calculated difference from global mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state:
+        Texas
+2024-04-09 13:23:16 - INFO - Result for job job_id_38 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_38.json.
+2024-04-09 13:23:16 - INFO - Successfully processed job job_id_38 in 1.98 seconds.
+2024-04-09 13:23:16 - INFO - Received request (GET) for job results - JobID: job_id_38.
+2024-04-09 13:23:16 - INFO - Job job_id_38 is done.
+2024-04-09 13:23:16 - INFO - -------------------
+2024-04-09 13:23:16 - INFO - Received request (POST) for state_diff_from_mean with data: {'question': 'Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)', 'state': 'Michigan'}
+2024-04-09 13:23:16 - INFO - Registering job with ID: job_id_39
+2024-04-09 13:23:16 - INFO - Job job_id_39 added to the queue.
+2024-04-09 13:23:16 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:16 - INFO - Calculating state_diff_from_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Michigan
+2024-04-09 13:23:16 - INFO - Calculating global_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:16 - INFO - Calculated global_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:16 - INFO - Received request (GET) for job results - JobID: job_id_39.
+2024-04-09 13:23:16 - INFO - Calculating state_means for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Michigan
+2024-04-09 13:23:16 - INFO - Job job_id_39 is still running or the result file is not yet available.
+2024-04-09 13:23:16 - INFO - Calculated average value for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Michigan
+2024-04-09 13:23:16 - INFO - Calculated difference from global mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state:
+        Michigan
+2024-04-09 13:23:16 - INFO - Result for job job_id_39 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_39.json.
+2024-04-09 13:23:16 - INFO - Successfully processed job job_id_39 in 1.97 seconds.
+2024-04-09 13:23:17 - INFO - Received request (GET) for job results - JobID: job_id_39.
+2024-04-09 13:23:17 - INFO - Job job_id_39 is done.
+2024-04-09 13:23:17 - INFO - -------------------
+2024-04-09 13:23:17 - INFO - Received request (POST) for state_diff_from_mean with data: {'question': 'Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)', 'state': 'Rhode Island'}
+2024-04-09 13:23:17 - INFO - Registering job with ID: job_id_40
+2024-04-09 13:23:17 - INFO - Job job_id_40 added to the queue.
+2024-04-09 13:23:17 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:17 - INFO - Calculating state_diff_from_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Rhode Island
+2024-04-09 13:23:17 - INFO - Calculating global_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:17 - INFO - Received request (GET) for job results - JobID: job_id_40.
+2024-04-09 13:23:17 - INFO - Calculated global_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:17 - INFO - Job job_id_40 is still running or the result file is not yet available.
+2024-04-09 13:23:17 - INFO - Calculating state_means for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Rhode Island
+2024-04-09 13:23:17 - INFO - Calculated average value for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Rhode Island
+2024-04-09 13:23:17 - INFO - Calculated difference from global mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state:
+        Rhode Island
+2024-04-09 13:23:17 - INFO - Result for job job_id_40 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_40.json.
+2024-04-09 13:23:17 - INFO - Successfully processed job job_id_40 in 1.92 seconds.
+2024-04-09 13:23:17 - INFO - Received request (GET) for job results - JobID: job_id_40.
+2024-04-09 13:23:17 - INFO - Job job_id_40 is done.
+2024-04-09 13:23:17 - INFO - -------------------
+2024-04-09 13:23:17 - INFO - Received request (POST) for state_diff_from_mean with data: {'question': 'Percent of adults who engage in muscle-strengthening activities on 2 or more days a week', 'state': 'Virgin Islands'}
+2024-04-09 13:23:17 - INFO - Registering job with ID: job_id_41
+2024-04-09 13:23:17 - INFO - Job job_id_41 added to the queue.
+2024-04-09 13:23:17 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:17 - INFO - Calculating state_diff_from_mean for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week and state: Virgin Islands
+2024-04-09 13:23:17 - INFO - Calculating global_mean for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:17 - INFO - Received request (GET) for job results - JobID: job_id_41.
+2024-04-09 13:23:17 - INFO - Calculated global_mean for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:17 - INFO - Job job_id_41 is still running or the result file is not yet available.
+2024-04-09 13:23:17 - INFO - Calculating state_means for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week and state: Virgin Islands
+2024-04-09 13:23:17 - INFO - Calculated average value for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week and state: Virgin Islands
+2024-04-09 13:23:17 - INFO - Calculated difference from global mean for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week and state:
+        Virgin Islands
+2024-04-09 13:23:17 - INFO - Result for job job_id_41 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_41.json.
+2024-04-09 13:23:17 - INFO - Successfully processed job job_id_41 in 1.89 seconds.
+2024-04-09 13:23:17 - INFO - Received request (GET) for job results - JobID: job_id_41.
+2024-04-09 13:23:17 - INFO - Job job_id_41 is done.
+2024-04-09 13:23:17 - INFO - -------------------
+2024-04-09 13:23:17 - INFO - Received request (POST) for state_diff_from_mean with data: {'question': 'Percent of adults who engage in muscle-strengthening activities on 2 or more days a week', 'state': 'Texas'}
+2024-04-09 13:23:17 - INFO - Registering job with ID: job_id_42
+2024-04-09 13:23:17 - INFO - Job job_id_42 added to the queue.
+2024-04-09 13:23:17 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:17 - INFO - Calculating state_diff_from_mean for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week and state: Texas
+2024-04-09 13:23:17 - INFO - Calculating global_mean for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:17 - INFO - Received request (GET) for job results - JobID: job_id_42.
+2024-04-09 13:23:17 - INFO - Calculated global_mean for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:17 - INFO - Job job_id_42 is still running or the result file is not yet available.
+2024-04-09 13:23:17 - INFO - Calculating state_means for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week and state: Texas
+2024-04-09 13:23:17 - INFO - Calculated average value for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week and state: Texas
+2024-04-09 13:23:17 - INFO - Calculated difference from global mean for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week and state:
+        Texas
+2024-04-09 13:23:17 - INFO - Result for job job_id_42 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_42.json.
+2024-04-09 13:23:17 - INFO - Successfully processed job job_id_42 in 1.87 seconds.
+2024-04-09 13:23:17 - INFO - Received request (GET) for job results - JobID: job_id_42.
+2024-04-09 13:23:17 - INFO - Job job_id_42 is done.
+2024-04-09 13:23:17 - INFO - -------------------
+2024-04-09 13:23:17 - INFO - Received request (POST) for state_diff_from_mean with data: {'question': 'Percent of adults who engage in muscle-strengthening activities on 2 or more days a week', 'state': 'Michigan'}
+2024-04-09 13:23:17 - INFO - Registering job with ID: job_id_43
+2024-04-09 13:23:17 - INFO - Job job_id_43 added to the queue.
+2024-04-09 13:23:17 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:17 - INFO - Calculating state_diff_from_mean for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week and state: Michigan
+2024-04-09 13:23:17 - INFO - Calculating global_mean for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:17 - INFO - Calculated global_mean for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:17 - INFO - Received request (GET) for job results - JobID: job_id_43.
+2024-04-09 13:23:17 - INFO - Calculating state_means for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week and state: Michigan
+2024-04-09 13:23:17 - INFO - Job job_id_43 is still running or the result file is not yet available.
+2024-04-09 13:23:17 - INFO - Calculated average value for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week and state: Michigan
+2024-04-09 13:23:17 - INFO - Calculated difference from global mean for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week and state:
+        Michigan
+2024-04-09 13:23:17 - INFO - Result for job job_id_43 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_43.json.
+2024-04-09 13:23:17 - INFO - Successfully processed job job_id_43 in 1.87 seconds.
+2024-04-09 13:23:17 - INFO - Received request (GET) for job results - JobID: job_id_43.
+2024-04-09 13:23:17 - INFO - Job job_id_43 is done.
+2024-04-09 13:23:17 - INFO - -------------------
+2024-04-09 13:23:17 - INFO - Received request (POST) for state_diff_from_mean with data: {'question': 'Percent of adults who engage in muscle-strengthening activities on 2 or more days a week', 'state': 'Rhode Island'}
+2024-04-09 13:23:17 - INFO - Registering job with ID: job_id_44
+2024-04-09 13:23:17 - INFO - Job job_id_44 added to the queue.
+2024-04-09 13:23:17 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:17 - INFO - Calculating state_diff_from_mean for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week and state: Rhode Island
+2024-04-09 13:23:17 - INFO - Calculating global_mean for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:17 - INFO - Received request (GET) for job results - JobID: job_id_44.
+2024-04-09 13:23:17 - INFO - Job job_id_44 is still running or the result file is not yet available.
+2024-04-09 13:23:17 - INFO - Calculated global_mean for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:17 - INFO - Calculating state_means for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week and state: Rhode Island
+2024-04-09 13:23:17 - INFO - Calculated average value for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week and state: Rhode Island
+2024-04-09 13:23:17 - INFO - Calculated difference from global mean for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week and state:
+        Rhode Island
+2024-04-09 13:23:17 - INFO - Result for job job_id_44 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_44.json.
+2024-04-09 13:23:17 - INFO - Successfully processed job job_id_44 in 1.83 seconds.
+2024-04-09 13:23:18 - INFO - Received request (GET) for job results - JobID: job_id_44.
+2024-04-09 13:23:18 - INFO - Job job_id_44 is done.
+2024-04-09 13:23:18 - INFO - -------------------
+2024-04-09 13:23:18 - INFO - Received request (POST) for state_diff_from_mean with data: {'question': 'Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)', 'state': 'Virgin Islands'}
+2024-04-09 13:23:18 - INFO - Registering job with ID: job_id_45
+2024-04-09 13:23:18 - INFO - Job job_id_45 added to the queue.
+2024-04-09 13:23:18 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:18 - INFO - Calculating state_diff_from_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Virgin Islands
+2024-04-09 13:23:18 - INFO - Calculating global_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:18 - INFO - Calculated global_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:18 - INFO - Calculating state_means for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Virgin Islands
+2024-04-09 13:23:18 - INFO - Received request (GET) for job results - JobID: job_id_45.
+2024-04-09 13:23:18 - INFO - Calculated average value for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Virgin Islands
+2024-04-09 13:23:18 - INFO - Job job_id_45 is still running or the result file is not yet available.
+2024-04-09 13:23:18 - INFO - Calculated difference from global mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state:
+        Virgin Islands
+2024-04-09 13:23:18 - INFO - Result for job job_id_45 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_45.json.
+2024-04-09 13:23:18 - INFO - Successfully processed job job_id_45 in 1.82 seconds.
+2024-04-09 13:23:18 - INFO - Received request (GET) for job results - JobID: job_id_45.
+2024-04-09 13:23:18 - INFO - Job job_id_45 is done.
+2024-04-09 13:23:18 - INFO - -------------------
+2024-04-09 13:23:18 - INFO - Received request (POST) for state_diff_from_mean with data: {'question': 'Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)', 'state': 'Texas'}
+2024-04-09 13:23:18 - INFO - Registering job with ID: job_id_46
+2024-04-09 13:23:18 - INFO - Job job_id_46 added to the queue.
+2024-04-09 13:23:18 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:18 - INFO - Calculating state_diff_from_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Texas
+2024-04-09 13:23:18 - INFO - Calculating global_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:18 - INFO - Calculated global_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:18 - INFO - Received request (GET) for job results - JobID: job_id_46.
+2024-04-09 13:23:18 - INFO - Calculating state_means for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Texas
+2024-04-09 13:23:18 - INFO - Job job_id_46 is still running or the result file is not yet available.
+2024-04-09 13:23:18 - INFO - Calculated average value for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Texas
+2024-04-09 13:23:18 - INFO - Calculated difference from global mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state:
+        Texas
+2024-04-09 13:23:18 - INFO - Result for job job_id_46 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_46.json.
+2024-04-09 13:23:18 - INFO - Successfully processed job job_id_46 in 1.82 seconds.
+2024-04-09 13:23:18 - INFO - Received request (GET) for job results - JobID: job_id_46.
+2024-04-09 13:23:18 - INFO - Job job_id_46 is done.
+2024-04-09 13:23:18 - INFO - -------------------
+2024-04-09 13:23:18 - INFO - Received request (POST) for state_diff_from_mean with data: {'question': 'Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)', 'state': 'Michigan'}
+2024-04-09 13:23:18 - INFO - Registering job with ID: job_id_47
+2024-04-09 13:23:18 - INFO - Job job_id_47 added to the queue.
+2024-04-09 13:23:18 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:18 - INFO - Calculating state_diff_from_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Michigan
+2024-04-09 13:23:18 - INFO - Calculating global_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:18 - INFO - Calculated global_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:18 - INFO - Received request (GET) for job results - JobID: job_id_47.
+2024-04-09 13:23:18 - INFO - Calculating state_means for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Michigan
+2024-04-09 13:23:18 - INFO - Job job_id_47 is still running or the result file is not yet available.
+2024-04-09 13:23:18 - INFO - Calculated average value for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Michigan
+2024-04-09 13:23:18 - INFO - Calculated difference from global mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state:
+        Michigan
+2024-04-09 13:23:18 - INFO - Result for job job_id_47 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_47.json.
+2024-04-09 13:23:18 - INFO - Successfully processed job job_id_47 in 1.83 seconds.
+2024-04-09 13:23:18 - INFO - Received request (GET) for job results - JobID: job_id_47.
+2024-04-09 13:23:18 - INFO - Job job_id_47 is done.
+2024-04-09 13:23:18 - INFO - -------------------
+2024-04-09 13:23:18 - INFO - Received request (POST) for state_diff_from_mean with data: {'question': 'Percent of adults who report consuming vegetables less than one time daily', 'state': 'Texas'}
+2024-04-09 13:23:18 - INFO - Registering job with ID: job_id_48
+2024-04-09 13:23:18 - INFO - Job job_id_48 added to the queue.
+2024-04-09 13:23:18 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:18 - INFO - Calculating state_diff_from_mean for question: Percent of adults who report consuming vegetables less than one time daily and state: Texas
+2024-04-09 13:23:18 - INFO - Calculating global_mean for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:18 - INFO - Calculated global_mean for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:18 - INFO - Received request (GET) for job results - JobID: job_id_48.
+2024-04-09 13:23:18 - INFO - Calculating state_means for question: Percent of adults who report consuming vegetables less than one time daily and state: Texas
+2024-04-09 13:23:18 - INFO - Job job_id_48 is still running or the result file is not yet available.
+2024-04-09 13:23:18 - INFO - Calculated average value for question: Percent of adults who report consuming vegetables less than one time daily and state: Texas
+2024-04-09 13:23:18 - INFO - Calculated difference from global mean for question: Percent of adults who report consuming vegetables less than one time daily and state:
+        Texas
+2024-04-09 13:23:18 - INFO - Result for job job_id_48 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_48.json.
+2024-04-09 13:23:18 - INFO - Successfully processed job job_id_48 in 1.82 seconds.
+2024-04-09 13:23:19 - INFO - Received request (GET) for job results - JobID: job_id_48.
+2024-04-09 13:23:19 - INFO - Job job_id_48 is done.
+2024-04-09 13:23:19 - INFO - -------------------
+2024-04-09 13:23:19 - INFO - Received request (POST) for state_diff_from_mean with data: {'question': 'Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)', 'state': 'Rhode Island'}
+2024-04-09 13:23:19 - INFO - Registering job with ID: job_id_49
+2024-04-09 13:23:19 - INFO - Job job_id_49 added to the queue.
+2024-04-09 13:23:19 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:19 - INFO - Calculating state_diff_from_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Rhode Island
+2024-04-09 13:23:19 - INFO - Calculating global_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:19 - INFO - Received request (GET) for job results - JobID: job_id_49.
+2024-04-09 13:23:19 - INFO - Calculated global_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:19 - INFO - Job job_id_49 is still running or the result file is not yet available.
+2024-04-09 13:23:19 - INFO - Calculating state_means for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Rhode Island
+2024-04-09 13:23:19 - INFO - Calculated average value for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Rhode Island
+2024-04-09 13:23:19 - INFO - Calculated difference from global mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state:
+        Rhode Island
+2024-04-09 13:23:19 - INFO - Result for job job_id_49 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_49.json.
+2024-04-09 13:23:19 - INFO - Successfully processed job job_id_49 in 1.82 seconds.
+2024-04-09 13:23:19 - INFO - Received request (GET) for job results - JobID: job_id_49.
+2024-04-09 13:23:19 - INFO - Job job_id_49 is done.
+2024-04-09 13:23:19 - INFO - -------------------
+2024-04-09 13:23:19 - INFO - Received request (POST) for state_diff_from_mean with data: {'question': 'Percent of adults who report consuming vegetables less than one time daily', 'state': 'Michigan'}
+2024-04-09 13:23:19 - INFO - Registering job with ID: job_id_50
+2024-04-09 13:23:19 - INFO - Job job_id_50 added to the queue.
+2024-04-09 13:23:19 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:19 - INFO - Calculating state_diff_from_mean for question: Percent of adults who report consuming vegetables less than one time daily and state: Michigan
+2024-04-09 13:23:19 - INFO - Calculating global_mean for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:19 - INFO - Calculated global_mean for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:19 - INFO - Received request (GET) for job results - JobID: job_id_50.
+2024-04-09 13:23:19 - INFO - Calculating state_means for question: Percent of adults who report consuming vegetables less than one time daily and state: Michigan
+2024-04-09 13:23:19 - INFO - Job job_id_50 is still running or the result file is not yet available.
+2024-04-09 13:23:19 - INFO - Calculated average value for question: Percent of adults who report consuming vegetables less than one time daily and state: Michigan
+2024-04-09 13:23:19 - INFO - Calculated difference from global mean for question: Percent of adults who report consuming vegetables less than one time daily and state:
+        Michigan
+2024-04-09 13:23:19 - INFO - Result for job job_id_50 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_50.json.
+2024-04-09 13:23:19 - INFO - Successfully processed job job_id_50 in 1.80 seconds.
+2024-04-09 13:23:19 - INFO - Received request (GET) for job results - JobID: job_id_50.
+2024-04-09 13:23:19 - INFO - Job job_id_50 is done.
+2024-04-09 13:23:19 - INFO - -------------------
+2024-04-09 13:23:19 - INFO - Received request (POST) for state_diff_from_mean with data: {'question': 'Percent of adults who report consuming vegetables less than one time daily', 'state': 'Rhode Island'}
+2024-04-09 13:23:19 - INFO - Registering job with ID: job_id_51
+2024-04-09 13:23:19 - INFO - Job job_id_51 added to the queue.
+2024-04-09 13:23:19 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:19 - INFO - Calculating state_diff_from_mean for question: Percent of adults who report consuming vegetables less than one time daily and state: Rhode Island
+2024-04-09 13:23:19 - INFO - Calculating global_mean for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:19 - INFO - Calculated global_mean for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:19 - INFO - Received request (GET) for job results - JobID: job_id_51.
+2024-04-09 13:23:19 - INFO - Calculating state_means for question: Percent of adults who report consuming vegetables less than one time daily and state: Rhode Island
+2024-04-09 13:23:19 - INFO - Job job_id_51 is still running or the result file is not yet available.
+2024-04-09 13:23:19 - INFO - Calculated average value for question: Percent of adults who report consuming vegetables less than one time daily and state: Rhode Island
+2024-04-09 13:23:19 - INFO - Calculated difference from global mean for question: Percent of adults who report consuming vegetables less than one time daily and state:
+        Rhode Island
+2024-04-09 13:23:19 - INFO - Result for job job_id_51 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_51.json.
+2024-04-09 13:23:19 - INFO - Successfully processed job job_id_51 in 1.81 seconds.
+2024-04-09 13:23:19 - INFO - Received request (GET) for job results - JobID: job_id_51.
+2024-04-09 13:23:19 - INFO - Job job_id_51 is done.
+2024-04-09 13:23:19 - INFO - -------------------
+2024-04-09 13:23:19 - INFO - Received request (POST) for state_diff_from_mean with data: {'question': 'Percent of adults who report consuming vegetables less than one time daily', 'state': 'Virgin Islands'}
+2024-04-09 13:23:19 - INFO - Registering job with ID: job_id_52
+2024-04-09 13:23:19 - INFO - Job job_id_52 added to the queue.
+2024-04-09 13:23:19 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:19 - INFO - Calculating state_diff_from_mean for question: Percent of adults who report consuming vegetables less than one time daily and state: Virgin Islands
+2024-04-09 13:23:19 - INFO - Calculating global_mean for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:19 - INFO - Calculated global_mean for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:19 - INFO - Received request (GET) for job results - JobID: job_id_52.
+2024-04-09 13:23:19 - INFO - Calculating state_means for question: Percent of adults who report consuming vegetables less than one time daily and state: Virgin Islands
+2024-04-09 13:23:19 - INFO - Job job_id_52 is still running or the result file is not yet available.
+2024-04-09 13:23:19 - INFO - Calculated average value for question: Percent of adults who report consuming vegetables less than one time daily and state: Virgin Islands
+2024-04-09 13:23:19 - INFO - Calculated difference from global mean for question: Percent of adults who report consuming vegetables less than one time daily and state:
+        Virgin Islands
+2024-04-09 13:23:19 - INFO - Result for job job_id_52 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_52.json.
+2024-04-09 13:23:19 - INFO - Successfully processed job job_id_52 in 1.80 seconds.
+2024-04-09 13:23:19 - INFO - Received request (GET) for job results - JobID: job_id_52.
+2024-04-09 13:23:19 - INFO - Job job_id_52 is done.
+2024-04-09 13:23:19 - INFO - -------------------
+2024-04-09 13:23:19 - INFO - Received request (POST) for state_diff_from_mean with data: {'question': 'Percent of adults who report consuming vegetables less than one time daily', 'state': 'Texas'}
+2024-04-09 13:23:19 - INFO - Registering job with ID: job_id_53
+2024-04-09 13:23:19 - INFO - Job job_id_53 added to the queue.
+2024-04-09 13:23:19 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:19 - INFO - Calculating state_diff_from_mean for question: Percent of adults who report consuming vegetables less than one time daily and state: Texas
+2024-04-09 13:23:19 - INFO - Calculating global_mean for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:20 - INFO - Calculated global_mean for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:20 - INFO - Received request (GET) for job results - JobID: job_id_53.
+2024-04-09 13:23:20 - INFO - Calculating state_means for question: Percent of adults who report consuming vegetables less than one time daily and state: Texas
+2024-04-09 13:23:20 - INFO - Job job_id_53 is still running or the result file is not yet available.
+2024-04-09 13:23:20 - INFO - Calculated average value for question: Percent of adults who report consuming vegetables less than one time daily and state: Texas
+2024-04-09 13:23:20 - INFO - Calculated difference from global mean for question: Percent of adults who report consuming vegetables less than one time daily and state:
+        Texas
+2024-04-09 13:23:20 - INFO - Result for job job_id_53 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_53.json.
+2024-04-09 13:23:20 - INFO - Successfully processed job job_id_53 in 1.79 seconds.
+2024-04-09 13:23:20 - INFO - Received request (GET) for job results - JobID: job_id_53.
+2024-04-09 13:23:20 - INFO - Job job_id_53 is done.
+2024-04-09 13:23:20 - INFO - -------------------
+2024-04-09 13:23:20 - INFO - Received request (POST) for state_diff_from_mean with data: {'question': 'Percent of adults who report consuming vegetables less than one time daily', 'state': 'Michigan'}
+2024-04-09 13:23:20 - INFO - Registering job with ID: job_id_54
+2024-04-09 13:23:20 - INFO - Job job_id_54 added to the queue.
+2024-04-09 13:23:20 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:20 - INFO - Calculating state_diff_from_mean for question: Percent of adults who report consuming vegetables less than one time daily and state: Michigan
+2024-04-09 13:23:20 - INFO - Calculating global_mean for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:20 - INFO - Calculated global_mean for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:20 - INFO - Received request (GET) for job results - JobID: job_id_54.
+2024-04-09 13:23:20 - INFO - Calculating state_means for question: Percent of adults who report consuming vegetables less than one time daily and state: Michigan
+2024-04-09 13:23:20 - INFO - Job job_id_54 is still running or the result file is not yet available.
+2024-04-09 13:23:20 - INFO - Calculated average value for question: Percent of adults who report consuming vegetables less than one time daily and state: Michigan
+2024-04-09 13:23:20 - INFO - Calculated difference from global mean for question: Percent of adults who report consuming vegetables less than one time daily and state:
+        Michigan
+2024-04-09 13:23:20 - INFO - Result for job job_id_54 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_54.json.
+2024-04-09 13:23:20 - INFO - Successfully processed job job_id_54 in 1.78 seconds.
+2024-04-09 13:23:20 - INFO - Received request (GET) for job results - JobID: job_id_54.
+2024-04-09 13:23:20 - INFO - Job job_id_54 is done.
+2024-04-09 13:23:20 - INFO - -------------------
+2024-04-09 13:23:20 - INFO - Received request (POST) for state_diff_from_mean with data: {'question': 'Percent of adults who report consuming vegetables less than one time daily', 'state': 'Rhode Island'}
+2024-04-09 13:23:20 - INFO - Registering job with ID: job_id_55
+2024-04-09 13:23:20 - INFO - Job job_id_55 added to the queue.
+2024-04-09 13:23:20 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:20 - INFO - Calculating state_diff_from_mean for question: Percent of adults who report consuming vegetables less than one time daily and state: Rhode Island
+2024-04-09 13:23:20 - INFO - Calculating global_mean for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:20 - INFO - Received request (GET) for job results - JobID: job_id_55.
+2024-04-09 13:23:20 - INFO - Calculated global_mean for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:20 - INFO - Job job_id_55 is still running or the result file is not yet available.
+2024-04-09 13:23:20 - INFO - Calculating state_means for question: Percent of adults who report consuming vegetables less than one time daily and state: Rhode Island
+2024-04-09 13:23:20 - INFO - Calculated average value for question: Percent of adults who report consuming vegetables less than one time daily and state: Rhode Island
+2024-04-09 13:23:20 - INFO - Calculated difference from global mean for question: Percent of adults who report consuming vegetables less than one time daily and state:
+        Rhode Island
+2024-04-09 13:23:20 - INFO - Result for job job_id_55 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_55.json.
+2024-04-09 13:23:20 - INFO - Successfully processed job job_id_55 in 1.78 seconds.
+2024-04-09 13:23:20 - INFO - Received request (GET) for job results - JobID: job_id_55.
+2024-04-09 13:23:20 - INFO - Job job_id_55 is done.
+2024-04-09 13:23:20 - INFO - -------------------
+2024-04-09 13:23:20 - INFO - Received request (POST) for state_diff_from_mean with data: {'question': 'Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)', 'state': 'Virgin Islands'}
+2024-04-09 13:23:20 - INFO - Registering job with ID: job_id_56
+2024-04-09 13:23:20 - INFO - Job job_id_56 added to the queue.
+2024-04-09 13:23:20 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:20 - INFO - Calculating state_diff_from_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Virgin Islands
+2024-04-09 13:23:20 - INFO - Calculating global_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:20 - INFO - Calculated global_mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:20 - INFO - Received request (GET) for job results - JobID: job_id_56.
+2024-04-09 13:23:20 - INFO - Calculating state_means for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Virgin Islands
+2024-04-09 13:23:20 - INFO - Job job_id_56 is still running or the result file is not yet available.
+2024-04-09 13:23:20 - INFO - Calculated average value for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Virgin Islands
+2024-04-09 13:23:20 - INFO - Calculated difference from global mean for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state:
+        Virgin Islands
+2024-04-09 13:23:20 - INFO - Result for job job_id_56 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_56.json.
+2024-04-09 13:23:20 - INFO - Successfully processed job job_id_56 in 1.78 seconds.
+2024-04-09 13:23:20 - INFO - Received request (GET) for job results - JobID: job_id_56.
+2024-04-09 13:23:20 - INFO - Job job_id_56 is done.
+2024-04-09 13:23:20 - INFO - -------------------
+2024-04-09 13:23:20 - INFO - Received request (POST) for state_mean with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)', 'state': 'Guam'}
+2024-04-09 13:23:20 - INFO - Registering job with ID: job_id_57
+2024-04-09 13:23:20 - INFO - Job job_id_57 added to the queue.
+2024-04-09 13:23:20 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:20 - INFO - Calculating state_means for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Guam
+2024-04-09 13:23:20 - INFO - Calculated average value for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Guam
+2024-04-09 13:23:20 - INFO - Result for job job_id_57 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_57.json.
+2024-04-09 13:23:20 - INFO - Successfully processed job job_id_57 in 1.78 seconds.
+2024-04-09 13:23:20 - INFO - Received request (GET) for job results - JobID: job_id_57.
+2024-04-09 13:23:20 - INFO - Job job_id_57 is done.
+2024-04-09 13:23:20 - INFO - -------------------
+2024-04-09 13:23:20 - INFO - Received request (POST) for state_mean with data: {'question': 'Percent of adults who report consuming vegetables less than one time daily', 'state': 'Maine'}
+2024-04-09 13:23:20 - INFO - Registering job with ID: job_id_58
+2024-04-09 13:23:20 - INFO - Job job_id_58 added to the queue.
+2024-04-09 13:23:20 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:20 - INFO - Calculating state_means for question: Percent of adults who report consuming vegetables less than one time daily and state: Maine
+2024-04-09 13:23:20 - INFO - Calculated average value for question: Percent of adults who report consuming vegetables less than one time daily and state: Maine
+2024-04-09 13:23:20 - INFO - Received request (GET) for job results - JobID: job_id_58.
+2024-04-09 13:23:20 - INFO - Result for job job_id_58 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_58.json.
+2024-04-09 13:23:20 - INFO - Successfully processed job job_id_58 in 1.59 seconds.
+2024-04-09 13:23:20 - INFO - Job job_id_58 is done.
+2024-04-09 13:23:20 - INFO - -------------------
+2024-04-09 13:23:20 - INFO - Received request (POST) for state_mean with data: {'question': 'Percent of adults who report consuming vegetables less than one time daily', 'state': 'Massachusetts'}
+2024-04-09 13:23:20 - INFO - Registering job with ID: job_id_59
+2024-04-09 13:23:20 - INFO - Job job_id_59 added to the queue.
+2024-04-09 13:23:20 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:20 - INFO - Calculating state_means for question: Percent of adults who report consuming vegetables less than one time daily and state: Massachusetts
+2024-04-09 13:23:20 - INFO - Calculated average value for question: Percent of adults who report consuming vegetables less than one time daily and state: Massachusetts
+2024-04-09 13:23:20 - INFO - Received request (GET) for job results - JobID: job_id_59.
+2024-04-09 13:23:20 - INFO - Job job_id_59 is still running or the result file is not yet available.
+2024-04-09 13:23:20 - INFO - Result for job job_id_59 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_59.json.
+2024-04-09 13:23:20 - INFO - Successfully processed job job_id_59 in 1.38 seconds.
+2024-04-09 13:23:21 - INFO - Received request (GET) for job results - JobID: job_id_59.
+2024-04-09 13:23:21 - INFO - Job job_id_59 is done.
+2024-04-09 13:23:21 - INFO - -------------------
+2024-04-09 13:23:21 - INFO - Received request (POST) for state_mean with data: {'question': 'Percent of adults who report consuming vegetables less than one time daily', 'state': 'National'}
+2024-04-09 13:23:21 - INFO - Registering job with ID: job_id_60
+2024-04-09 13:23:21 - INFO - Job job_id_60 added to the queue.
+2024-04-09 13:23:21 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:21 - INFO - Calculating state_means for question: Percent of adults who report consuming vegetables less than one time daily and state: National
+2024-04-09 13:23:21 - INFO - Calculated average value for question: Percent of adults who report consuming vegetables less than one time daily and state: National
+2024-04-09 13:23:21 - INFO - Received request (GET) for job results - JobID: job_id_60.
+2024-04-09 13:23:21 - INFO - Job job_id_60 is done.
+2024-04-09 13:23:21 - INFO - Result for job job_id_60 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_60.json.
+2024-04-09 13:23:21 - INFO - Successfully processed job job_id_60 in 1.38 seconds.
+2024-04-09 13:23:21 - INFO - -------------------
+2024-04-09 13:23:21 - INFO - Received request (POST) for state_mean with data: {'question': 'Percent of adults aged 18 years and older who have an overweight classification', 'state': 'Guam'}
+2024-04-09 13:23:21 - INFO - Registering job with ID: job_id_61
+2024-04-09 13:23:21 - INFO - Job job_id_61 added to the queue.
+2024-04-09 13:23:21 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:21 - INFO - Calculating state_means for question: Percent of adults aged 18 years and older who have an overweight classification and state: Guam
+2024-04-09 13:23:21 - INFO - Calculated average value for question: Percent of adults aged 18 years and older who have an overweight classification and state: Guam
+2024-04-09 13:23:21 - INFO - Received request (GET) for job results - JobID: job_id_61.
+2024-04-09 13:23:21 - INFO - Result for job job_id_61 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_61.json.
+2024-04-09 13:23:21 - INFO - Successfully processed job job_id_61 in 1.17 seconds.
+2024-04-09 13:23:21 - INFO - Job job_id_61 is done.
+2024-04-09 13:23:21 - INFO - -------------------
+2024-04-09 13:23:21 - INFO - Received request (POST) for state_mean with data: {'question': 'Percent of adults aged 18 years and older who have an overweight classification', 'state': 'Maine'}
+2024-04-09 13:23:21 - INFO - Registering job with ID: job_id_62
+2024-04-09 13:23:21 - INFO - Job job_id_62 added to the queue.
+2024-04-09 13:23:21 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:21 - INFO - Calculating state_means for question: Percent of adults aged 18 years and older who have an overweight classification and state: Maine
+2024-04-09 13:23:21 - INFO - Calculated average value for question: Percent of adults aged 18 years and older who have an overweight classification and state: Maine
+2024-04-09 13:23:21 - INFO - Received request (GET) for job results - JobID: job_id_62.
+2024-04-09 13:23:21 - INFO - Job job_id_62 is still running or the result file is not yet available.
+2024-04-09 13:23:21 - INFO - Result for job job_id_62 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_62.json.
+2024-04-09 13:23:21 - INFO - Successfully processed job job_id_62 in 0.95 seconds.
+2024-04-09 13:23:21 - INFO - Received request (GET) for job results - JobID: job_id_62.
+2024-04-09 13:23:21 - INFO - Job job_id_62 is done.
+2024-04-09 13:23:21 - INFO - -------------------
+2024-04-09 13:23:21 - INFO - Received request (POST) for state_mean with data: {'question': 'Percent of adults aged 18 years and older who have an overweight classification', 'state': 'Massachusetts'}
+2024-04-09 13:23:21 - INFO - Registering job with ID: job_id_63
+2024-04-09 13:23:21 - INFO - Job job_id_63 added to the queue.
+2024-04-09 13:23:21 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:21 - INFO - Calculating state_means for question: Percent of adults aged 18 years and older who have an overweight classification and state: Massachusetts
+2024-04-09 13:23:21 - INFO - Calculated average value for question: Percent of adults aged 18 years and older who have an overweight classification and state: Massachusetts
+2024-04-09 13:23:21 - INFO - Received request (GET) for job results - JobID: job_id_63.
+2024-04-09 13:23:21 - INFO - Result for job job_id_63 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_63.json.
+2024-04-09 13:23:21 - INFO - Successfully processed job job_id_63 in 0.95 seconds.
+2024-04-09 13:23:21 - INFO - Job job_id_63 is done.
+2024-04-09 13:23:21 - INFO - -------------------
+2024-04-09 13:23:21 - INFO - Received request (POST) for state_mean with data: {'question': 'Percent of adults aged 18 years and older who have an overweight classification', 'state': 'National'}
+2024-04-09 13:23:21 - INFO - Registering job with ID: job_id_64
+2024-04-09 13:23:21 - INFO - Job job_id_64 added to the queue.
+2024-04-09 13:23:21 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:21 - INFO - Calculating state_means for question: Percent of adults aged 18 years and older who have an overweight classification and state: National
+2024-04-09 13:23:21 - INFO - Calculated average value for question: Percent of adults aged 18 years and older who have an overweight classification and state: National
+2024-04-09 13:23:21 - INFO - Received request (GET) for job results - JobID: job_id_64.
+2024-04-09 13:23:21 - INFO - Result for job job_id_64 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_64.json.
+2024-04-09 13:23:21 - INFO - Job job_id_64 is done.
+2024-04-09 13:23:21 - INFO - Successfully processed job job_id_64 in 0.74 seconds.
+2024-04-09 13:23:21 - INFO - -------------------
+2024-04-09 13:23:21 - INFO - Received request (POST) for state_mean with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week', 'state': 'Guam'}
+2024-04-09 13:23:21 - INFO - Registering job with ID: job_id_65
+2024-04-09 13:23:21 - INFO - Job job_id_65 added to the queue.
+2024-04-09 13:23:21 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:21 - INFO - Calculating state_means for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week and state: Guam
+2024-04-09 13:23:21 - INFO - Calculated average value for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week and state: Guam
+2024-04-09 13:23:21 - INFO - Received request (GET) for job results - JobID: job_id_65.
+2024-04-09 13:23:21 - INFO - Result for job job_id_65 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_65.json.
+2024-04-09 13:23:21 - INFO - Successfully processed job job_id_65 in 0.52 seconds.
+2024-04-09 13:23:21 - INFO - Job job_id_65 is done.
+2024-04-09 13:23:21 - INFO - -------------------
+2024-04-09 13:23:21 - INFO - Received request (POST) for state_mean with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week', 'state': 'Maine'}
+2024-04-09 13:23:21 - INFO - Registering job with ID: job_id_66
+2024-04-09 13:23:21 - INFO - Job job_id_66 added to the queue.
+2024-04-09 13:23:21 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:21 - INFO - Calculating state_means for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week and state: Maine
+2024-04-09 13:23:21 - INFO - Calculated average value for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week and state: Maine
+2024-04-09 13:23:21 - INFO - Received request (GET) for job results - JobID: job_id_66.
+2024-04-09 13:23:21 - INFO - Job job_id_66 is still running or the result file is not yet available.
+2024-04-09 13:23:21 - INFO - Result for job job_id_66 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_66.json.
+2024-04-09 13:23:21 - INFO - Successfully processed job job_id_66 in 0.52 seconds.
+2024-04-09 13:23:21 - INFO - Received request (GET) for job results - JobID: job_id_66.
+2024-04-09 13:23:21 - INFO - Job job_id_66 is done.
+2024-04-09 13:23:21 - INFO - -------------------
+2024-04-09 13:23:21 - INFO - Received request (POST) for state_mean with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week', 'state': 'Massachusetts'}
+2024-04-09 13:23:21 - INFO - Registering job with ID: job_id_67
+2024-04-09 13:23:21 - INFO - Job job_id_67 added to the queue.
+2024-04-09 13:23:21 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:21 - INFO - Calculating state_means for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week and state: Massachusetts
+2024-04-09 13:23:21 - INFO - Calculated average value for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week and state: Massachusetts
+2024-04-09 13:23:21 - INFO - Received request (GET) for job results - JobID: job_id_67.
+2024-04-09 13:23:21 - INFO - Job job_id_67 is done.
+2024-04-09 13:23:21 - INFO - Result for job job_id_67 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_67.json.
+2024-04-09 13:23:21 - INFO - Successfully processed job job_id_67 in 0.72 seconds.
+2024-04-09 13:23:21 - INFO - -------------------
+2024-04-09 13:23:21 - INFO - Received request (POST) for state_mean with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)', 'state': 'Maine'}
+2024-04-09 13:23:21 - INFO - Registering job with ID: job_id_68
+2024-04-09 13:23:21 - INFO - Job job_id_68 added to the queue.
+2024-04-09 13:23:21 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:21 - INFO - Calculating state_means for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Maine
+2024-04-09 13:23:21 - INFO - Calculated average value for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Maine
+2024-04-09 13:23:21 - INFO - Received request (GET) for job results - JobID: job_id_68.
+2024-04-09 13:23:21 - INFO - Result for job job_id_68 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_68.json.
+2024-04-09 13:23:21 - INFO - Successfully processed job job_id_68 in 0.51 seconds.
+2024-04-09 13:23:21 - INFO - Job job_id_68 is done.
+2024-04-09 13:23:21 - INFO - -------------------
+2024-04-09 13:23:21 - INFO - Received request (POST) for state_mean with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week', 'state': 'National'}
+2024-04-09 13:23:21 - INFO - Registering job with ID: job_id_69
+2024-04-09 13:23:21 - INFO - Job job_id_69 added to the queue.
+2024-04-09 13:23:21 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:21 - INFO - Calculating state_means for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week and state: National
+2024-04-09 13:23:21 - INFO - Calculated average value for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week and state: National
+2024-04-09 13:23:21 - INFO - Received request (GET) for job results - JobID: job_id_69.
+2024-04-09 13:23:21 - INFO - Job job_id_69 is still running or the result file is not yet available.
+2024-04-09 13:23:21 - INFO - Result for job job_id_69 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_69.json.
+2024-04-09 13:23:21 - INFO - Successfully processed job job_id_69 in 0.52 seconds.
+2024-04-09 13:23:21 - INFO - Received request (GET) for job results - JobID: job_id_69.
+2024-04-09 13:23:21 - INFO - Job job_id_69 is done.
+2024-04-09 13:23:21 - INFO - -------------------
+2024-04-09 13:23:21 - INFO - Received request (POST) for state_mean with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)', 'state': 'Massachusetts'}
+2024-04-09 13:23:21 - INFO - Registering job with ID: job_id_70
+2024-04-09 13:23:21 - INFO - Job job_id_70 added to the queue.
+2024-04-09 13:23:21 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:21 - INFO - Calculating state_means for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Massachusetts
+2024-04-09 13:23:21 - INFO - Calculated average value for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Massachusetts
+2024-04-09 13:23:21 - INFO - Received request (GET) for job results - JobID: job_id_70.
+2024-04-09 13:23:21 - INFO - Result for job job_id_70 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_70.json.
+2024-04-09 13:23:21 - INFO - Job job_id_70 is done.
+2024-04-09 13:23:21 - INFO - Successfully processed job job_id_70 in 0.72 seconds.
+2024-04-09 13:23:21 - INFO - -------------------
+2024-04-09 13:23:21 - INFO - Received request (POST) for state_mean with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)', 'state': 'National'}
+2024-04-09 13:23:21 - INFO - Registering job with ID: job_id_71
+2024-04-09 13:23:21 - INFO - Job job_id_71 added to the queue.
+2024-04-09 13:23:21 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:21 - INFO - Calculating state_means for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: National
+2024-04-09 13:23:21 - INFO - Calculated average value for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: National
+2024-04-09 13:23:21 - INFO - Received request (GET) for job results - JobID: job_id_71.
+2024-04-09 13:23:21 - INFO - Job job_id_71 is still running or the result file is not yet available.
+2024-04-09 13:23:21 - INFO - Result for job job_id_71 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_71.json.
+2024-04-09 13:23:21 - INFO - Successfully processed job job_id_71 in 0.52 seconds.
+2024-04-09 13:23:22 - INFO - Received request (GET) for job results - JobID: job_id_71.
+2024-04-09 13:23:22 - INFO - Job job_id_71 is done.
+2024-04-09 13:23:22 - INFO - -------------------
+2024-04-09 13:23:22 - INFO - Received request (POST) for state_mean with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)', 'state': 'Guam'}
+2024-04-09 13:23:22 - INFO - Registering job with ID: job_id_72
+2024-04-09 13:23:22 - INFO - Job job_id_72 added to the queue.
+2024-04-09 13:23:22 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:22 - INFO - Calculating state_means for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Guam
+2024-04-09 13:23:22 - INFO - Calculated average value for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Guam
+2024-04-09 13:23:22 - INFO - Received request (GET) for job results - JobID: job_id_72.
+2024-04-09 13:23:22 - INFO - Result for job job_id_72 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_72.json.
+2024-04-09 13:23:22 - INFO - Successfully processed job job_id_72 in 0.72 seconds.
+2024-04-09 13:23:22 - INFO - Job job_id_72 is done.
+2024-04-09 13:23:22 - INFO - -------------------
+2024-04-09 13:23:22 - INFO - Received request (POST) for state_mean with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)', 'state': 'Maine'}
+2024-04-09 13:23:22 - INFO - Registering job with ID: job_id_73
+2024-04-09 13:23:22 - INFO - Job job_id_73 added to the queue.
+2024-04-09 13:23:22 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:22 - INFO - Calculating state_means for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Maine
+2024-04-09 13:23:22 - INFO - Calculated average value for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Maine
+2024-04-09 13:23:22 - INFO - Received request (GET) for job results - JobID: job_id_73.
+2024-04-09 13:23:22 - INFO - Result for job job_id_73 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_73.json.
+2024-04-09 13:23:22 - INFO - Successfully processed job job_id_73 in 0.72 seconds.
+2024-04-09 13:23:22 - INFO - Job job_id_73 is done.
+2024-04-09 13:23:22 - INFO - -------------------
+2024-04-09 13:23:22 - INFO - Received request (POST) for state_mean with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)', 'state': 'Massachusetts'}
+2024-04-09 13:23:22 - INFO - Registering job with ID: job_id_74
+2024-04-09 13:23:22 - INFO - Job job_id_74 added to the queue.
+2024-04-09 13:23:22 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:22 - INFO - Calculating state_means for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Massachusetts
+2024-04-09 13:23:22 - INFO - Calculated average value for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: Massachusetts
+2024-04-09 13:23:22 - INFO - Received request (GET) for job results - JobID: job_id_74.
+2024-04-09 13:23:22 - INFO - Job job_id_74 is still running or the result file is not yet available.
+2024-04-09 13:23:22 - INFO - Result for job job_id_74 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_74.json.
+2024-04-09 13:23:22 - INFO - Successfully processed job job_id_74 in 0.72 seconds.
+2024-04-09 13:23:22 - INFO - Received request (GET) for job results - JobID: job_id_74.
+2024-04-09 13:23:22 - INFO - Job job_id_74 is done.
+2024-04-09 13:23:22 - INFO - -------------------
+2024-04-09 13:23:22 - INFO - Received request (POST) for state_mean with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)', 'state': 'National'}
+2024-04-09 13:23:22 - INFO - Registering job with ID: job_id_75
+2024-04-09 13:23:22 - INFO - Job job_id_75 added to the queue.
+2024-04-09 13:23:22 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:22 - INFO - Calculating state_means for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: National
+2024-04-09 13:23:22 - INFO - Calculated average value for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination) and state: National
+2024-04-09 13:23:22 - INFO - Received request (GET) for job results - JobID: job_id_75.
+2024-04-09 13:23:22 - INFO - Job job_id_75 is still running or the result file is not yet available.
+2024-04-09 13:23:22 - INFO - Result for job job_id_75 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_75.json.
+2024-04-09 13:23:22 - INFO - Successfully processed job job_id_75 in 0.71 seconds.
+2024-04-09 13:23:22 - INFO - Received request (GET) for job results - JobID: job_id_75.
+2024-04-09 13:23:22 - INFO - Job job_id_75 is done.
+2024-04-09 13:23:22 - INFO - -------------------
+2024-04-09 13:23:22 - INFO - Received request (POST) for state_mean with data: {'question': 'Percent of adults who report consuming vegetables less than one time daily', 'state': 'Guam'}
+2024-04-09 13:23:22 - INFO - Registering job with ID: job_id_76
+2024-04-09 13:23:22 - INFO - Job job_id_76 added to the queue.
+2024-04-09 13:23:22 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:22 - INFO - Calculating state_means for question: Percent of adults who report consuming vegetables less than one time daily and state: Guam
+2024-04-09 13:23:22 - INFO - Calculated average value for question: Percent of adults who report consuming vegetables less than one time daily and state: Guam
+2024-04-09 13:23:22 - INFO - Received request (GET) for job results - JobID: job_id_76.
+2024-04-09 13:23:22 - INFO - Result for job job_id_76 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_76.json.
+2024-04-09 13:23:22 - INFO - Successfully processed job job_id_76 in 0.93 seconds.
+2024-04-09 13:23:22 - INFO - Job job_id_76 is done.
+2024-04-09 13:23:22 - INFO - -------------------
+2024-04-09 13:23:22 - INFO - Received request (POST) for state_mean_by_category with data: {'question': 'Percent of adults aged 18 years and older who have an overweight classification', 'state': 'Oklahoma'}
+2024-04-09 13:23:22 - INFO - Registering job with ID: job_id_77
+2024-04-09 13:23:22 - INFO - Job job_id_77 added to the queue.
+2024-04-09 13:23:22 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:22 - INFO - Calculating state_mean_by_category for question: Percent of adults aged 18 years and older who have an overweight classification and state:
+        Oklahoma
+2024-04-09 13:23:22 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults aged 18 years and older who have an overweight classification and state: Oklahoma
+2024-04-09 13:23:22 - INFO - Received request (GET) for job results - JobID: job_id_77.
+2024-04-09 13:23:22 - INFO - Result for job job_id_77 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_77.json.
+2024-04-09 13:23:22 - INFO - Successfully processed job job_id_77 in 0.94 seconds.
+2024-04-09 13:23:22 - INFO - Job job_id_77 is done.
+2024-04-09 13:23:22 - INFO - -------------------
+2024-04-09 13:23:22 - INFO - Received request (POST) for state_mean_by_category with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week', 'state': 'Wisconsin'}
+2024-04-09 13:23:22 - INFO - Registering job with ID: job_id_78
+2024-04-09 13:23:22 - INFO - Job job_id_78 added to the queue.
+2024-04-09 13:23:22 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:22 - INFO - Calculating state_mean_by_category for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week and state:
+        Wisconsin
+2024-04-09 13:23:22 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week and state: Wisconsin
+2024-04-09 13:23:22 - INFO - Received request (GET) for job results - JobID: job_id_78.
+2024-04-09 13:23:22 - INFO - Job job_id_78 is still running or the result file is not yet available.
+2024-04-09 13:23:22 - INFO - Result for job job_id_78 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_78.json.
+2024-04-09 13:23:22 - INFO - Successfully processed job job_id_78 in 0.75 seconds.
+2024-04-09 13:23:22 - INFO - Received request (GET) for job results - JobID: job_id_78.
+2024-04-09 13:23:22 - INFO - Job job_id_78 is done.
+2024-04-09 13:23:22 - INFO - -------------------
+2024-04-09 13:23:22 - INFO - Received request (POST) for state_mean_by_category with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week', 'state': 'Connecticut'}
+2024-04-09 13:23:22 - INFO - Registering job with ID: job_id_79
+2024-04-09 13:23:22 - INFO - Job job_id_79 added to the queue.
+2024-04-09 13:23:22 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:22 - INFO - Calculating state_mean_by_category for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week and state:
+        Connecticut
+2024-04-09 13:23:22 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week and state: Connecticut
+2024-04-09 13:23:22 - INFO - Received request (GET) for job results - JobID: job_id_79.
+2024-04-09 13:23:22 - INFO - Result for job job_id_79 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_79.json.
+2024-04-09 13:23:22 - INFO - Successfully processed job job_id_79 in 0.97 seconds.
+2024-04-09 13:23:22 - INFO - Job job_id_79 is done.
+2024-04-09 13:23:22 - INFO - -------------------
+2024-04-09 13:23:22 - INFO - Received request (POST) for state_mean_by_category with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week', 'state': 'Georgia'}
+2024-04-09 13:23:22 - INFO - Registering job with ID: job_id_80
+2024-04-09 13:23:22 - INFO - Job job_id_80 added to the queue.
+2024-04-09 13:23:22 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:22 - INFO - Calculating state_mean_by_category for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week and state:
+        Georgia
+2024-04-09 13:23:22 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week and state: Georgia
+2024-04-09 13:23:22 - INFO - Received request (GET) for job results - JobID: job_id_80.
+2024-04-09 13:23:22 - INFO - Result for job job_id_80 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_80.json.
+2024-04-09 13:23:22 - INFO - Job job_id_80 is done.
+2024-04-09 13:23:22 - INFO - Successfully processed job job_id_80 in 0.77 seconds.
+2024-04-09 13:23:22 - INFO - -------------------
+2024-04-09 13:23:22 - INFO - Received request (POST) for state_mean_by_category with data: {'question': 'Percent of adults who engage in muscle-strengthening activities on 2 or more days a week', 'state': 'Oklahoma'}
+2024-04-09 13:23:22 - INFO - Registering job with ID: job_id_81
+2024-04-09 13:23:22 - INFO - Job job_id_81 added to the queue.
+2024-04-09 13:23:22 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:22 - INFO - Calculating state_mean_by_category for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week and state:
+        Oklahoma
+2024-04-09 13:23:22 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults who engage in muscle-strengthening activities on 2 or more days a week and state: Oklahoma
+2024-04-09 13:23:22 - INFO - Received request (GET) for job results - JobID: job_id_81.
+2024-04-09 13:23:22 - INFO - Result for job job_id_81 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_81.json.
+2024-04-09 13:23:22 - INFO - Job job_id_81 is done.
+2024-04-09 13:23:22 - INFO - Successfully processed job job_id_81 in 0.77 seconds.
+2024-04-09 13:23:22 - INFO - -------------------
+2024-04-09 13:23:22 - INFO - Received request (POST) for state_mean_by_category with data: {'question': 'Percent of adults who engage in muscle-strengthening activities on 2 or more days a week', 'state': 'Wisconsin'}
+2024-04-09 13:23:22 - INFO - Registering job with ID: job_id_82
+2024-04-09 13:23:22 - INFO - Job job_id_82 added to the queue.
+2024-04-09 13:23:22 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:22 - INFO - Calculating state_mean_by_category for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week and state:
+        Wisconsin
+2024-04-09 13:23:22 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults who engage in muscle-strengthening activities on 2 or more days a week and state: Wisconsin
+2024-04-09 13:23:22 - INFO - Received request (GET) for job results - JobID: job_id_82.
+2024-04-09 13:23:22 - INFO - Result for job job_id_82 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_82.json.
+2024-04-09 13:23:22 - INFO - Successfully processed job job_id_82 in 0.77 seconds.
+2024-04-09 13:23:22 - INFO - Job job_id_82 is done.
+2024-04-09 13:23:22 - INFO - -------------------
+2024-04-09 13:23:22 - INFO - Received request (POST) for state_mean_by_category with data: {'question': 'Percent of adults who engage in muscle-strengthening activities on 2 or more days a week', 'state': 'Connecticut'}
+2024-04-09 13:23:22 - INFO - Registering job with ID: job_id_83
+2024-04-09 13:23:22 - INFO - Job job_id_83 added to the queue.
+2024-04-09 13:23:22 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:22 - INFO - Calculating state_mean_by_category for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week and state:
+        Connecticut
+2024-04-09 13:23:22 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults who engage in muscle-strengthening activities on 2 or more days a week and state: Connecticut
+2024-04-09 13:23:22 - INFO - Received request (GET) for job results - JobID: job_id_83.
+2024-04-09 13:23:22 - INFO - Result for job job_id_83 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_83.json.
+2024-04-09 13:23:22 - INFO - Successfully processed job job_id_83 in 0.57 seconds.
+2024-04-09 13:23:22 - INFO - Job job_id_83 is done.
+2024-04-09 13:23:22 - INFO - -------------------
+2024-04-09 13:23:22 - INFO - Received request (POST) for state_mean_by_category with data: {'question': 'Percent of adults who engage in muscle-strengthening activities on 2 or more days a week', 'state': 'Georgia'}
+2024-04-09 13:23:22 - INFO - Registering job with ID: job_id_84
+2024-04-09 13:23:22 - INFO - Job job_id_84 added to the queue.
+2024-04-09 13:23:22 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:22 - INFO - Calculating state_mean_by_category for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week and state:
+        Georgia
+2024-04-09 13:23:22 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults who engage in muscle-strengthening activities on 2 or more days a week and state: Georgia
+2024-04-09 13:23:22 - INFO - Received request (GET) for job results - JobID: job_id_84.
+2024-04-09 13:23:22 - INFO - Result for job job_id_84 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_84.json.
+2024-04-09 13:23:22 - INFO - Successfully processed job job_id_84 in 0.36 seconds.
+2024-04-09 13:23:22 - INFO - Job job_id_84 is done.
+2024-04-09 13:23:22 - INFO - -------------------
+2024-04-09 13:23:22 - INFO - Received request (POST) for state_mean_by_category with data: {'question': 'Percent of adults who report consuming vegetables less than one time daily', 'state': 'Oklahoma'}
+2024-04-09 13:23:22 - INFO - Registering job with ID: job_id_85
+2024-04-09 13:23:22 - INFO - Job job_id_85 added to the queue.
+2024-04-09 13:23:22 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:22 - INFO - Calculating state_mean_by_category for question: Percent of adults who report consuming vegetables less than one time daily and state:
+        Oklahoma
+2024-04-09 13:23:22 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults who report consuming vegetables less than one time daily and state: Oklahoma
+2024-04-09 13:23:22 - INFO - Received request (GET) for job results - JobID: job_id_85.
+2024-04-09 13:23:22 - INFO - Result for job job_id_85 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_85.json.
+2024-04-09 13:23:22 - INFO - Successfully processed job job_id_85 in 0.34 seconds.
+2024-04-09 13:23:22 - INFO - Job job_id_85 is done.
+2024-04-09 13:23:22 - INFO - -------------------
+2024-04-09 13:23:22 - INFO - Received request (POST) for state_mean_by_category with data: {'question': 'Percent of adults who report consuming vegetables less than one time daily', 'state': 'Wisconsin'}
+2024-04-09 13:23:22 - INFO - Registering job with ID: job_id_86
+2024-04-09 13:23:22 - INFO - Job job_id_86 added to the queue.
+2024-04-09 13:23:22 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:22 - INFO - Calculating state_mean_by_category for question: Percent of adults who report consuming vegetables less than one time daily and state:
+        Wisconsin
+2024-04-09 13:23:22 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults who report consuming vegetables less than one time daily and state: Wisconsin
+2024-04-09 13:23:22 - INFO - Received request (GET) for job results - JobID: job_id_86.
+2024-04-09 13:23:22 - INFO - Result for job job_id_86 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_86.json.
+2024-04-09 13:23:22 - INFO - Successfully processed job job_id_86 in 0.34 seconds.
+2024-04-09 13:23:22 - INFO - Job job_id_86 is done.
+2024-04-09 13:23:23 - INFO - -------------------
+2024-04-09 13:23:23 - INFO - Received request (POST) for state_mean_by_category with data: {'question': 'Percent of adults who report consuming vegetables less than one time daily', 'state': 'Connecticut'}
+2024-04-09 13:23:23 - INFO - Registering job with ID: job_id_87
+2024-04-09 13:23:23 - INFO - Job job_id_87 added to the queue.
+2024-04-09 13:23:23 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:23 - INFO - Calculating state_mean_by_category for question: Percent of adults who report consuming vegetables less than one time daily and state:
+        Connecticut
+2024-04-09 13:23:23 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults who report consuming vegetables less than one time daily and state: Connecticut
+2024-04-09 13:23:23 - INFO - Received request (GET) for job results - JobID: job_id_87.
+2024-04-09 13:23:23 - INFO - Result for job job_id_87 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_87.json.
+2024-04-09 13:23:23 - INFO - Job job_id_87 is done.
+2024-04-09 13:23:23 - INFO - Successfully processed job job_id_87 in 0.11 seconds.
+2024-04-09 13:23:23 - INFO - -------------------
+2024-04-09 13:23:23 - INFO - Received request (POST) for state_mean_by_category with data: {'question': 'Percent of adults aged 18 years and older who have an overweight classification', 'state': 'Wisconsin'}
+2024-04-09 13:23:23 - INFO - Registering job with ID: job_id_88
+2024-04-09 13:23:23 - INFO - Job job_id_88 added to the queue.
+2024-04-09 13:23:23 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:23 - INFO - Calculating state_mean_by_category for question: Percent of adults aged 18 years and older who have an overweight classification and state:
+        Wisconsin
+2024-04-09 13:23:23 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults aged 18 years and older who have an overweight classification and state: Wisconsin
+2024-04-09 13:23:23 - INFO - Received request (GET) for job results - JobID: job_id_88.
+2024-04-09 13:23:23 - INFO - Job job_id_88 is still running or the result file is not yet available.
+2024-04-09 13:23:23 - INFO - Result for job job_id_88 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_88.json.
+2024-04-09 13:23:23 - INFO - Successfully processed job job_id_88 in 0.11 seconds.
+2024-04-09 13:23:23 - INFO - Received request (GET) for job results - JobID: job_id_88.
+2024-04-09 13:23:23 - INFO - Job job_id_88 is done.
+2024-04-09 13:23:23 - INFO - -------------------
+2024-04-09 13:23:23 - INFO - Received request (POST) for state_mean_by_category with data: {'question': 'Percent of adults who report consuming vegetables less than one time daily', 'state': 'Georgia'}
+2024-04-09 13:23:23 - INFO - Registering job with ID: job_id_89
+2024-04-09 13:23:23 - INFO - Job job_id_89 added to the queue.
+2024-04-09 13:23:23 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:23 - INFO - Calculating state_mean_by_category for question: Percent of adults who report consuming vegetables less than one time daily and state:
+        Georgia
+2024-04-09 13:23:23 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults who report consuming vegetables less than one time daily and state: Georgia
+2024-04-09 13:23:23 - INFO - Received request (GET) for job results - JobID: job_id_89.
+2024-04-09 13:23:23 - INFO - Job job_id_89 is still running or the result file is not yet available.
+2024-04-09 13:23:23 - INFO - Result for job job_id_89 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_89.json.
+2024-04-09 13:23:23 - INFO - Successfully processed job job_id_89 in 0.32 seconds.
+2024-04-09 13:23:23 - INFO - Received request (GET) for job results - JobID: job_id_89.
+2024-04-09 13:23:23 - INFO - Job job_id_89 is done.
+2024-04-09 13:23:23 - INFO - -------------------
+2024-04-09 13:23:23 - INFO - Received request (POST) for state_mean_by_category with data: {'question': 'Percent of adults aged 18 years and older who have an overweight classification', 'state': 'Connecticut'}
+2024-04-09 13:23:23 - INFO - Registering job with ID: job_id_90
+2024-04-09 13:23:23 - INFO - Job job_id_90 added to the queue.
+2024-04-09 13:23:23 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:23 - INFO - Calculating state_mean_by_category for question: Percent of adults aged 18 years and older who have an overweight classification and state:
+        Connecticut
+2024-04-09 13:23:23 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults aged 18 years and older who have an overweight classification and state: Connecticut
+2024-04-09 13:23:23 - INFO - Received request (GET) for job results - JobID: job_id_90.
+2024-04-09 13:23:23 - INFO - Result for job job_id_90 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_90.json.
+2024-04-09 13:23:23 - INFO - Successfully processed job job_id_90 in 0.53 seconds.
+2024-04-09 13:23:23 - INFO - Job job_id_90 is done.
+2024-04-09 13:23:23 - INFO - -------------------
+2024-04-09 13:23:23 - INFO - Received request (POST) for state_mean_by_category with data: {'question': 'Percent of adults aged 18 years and older who have an overweight classification', 'state': 'Georgia'}
+2024-04-09 13:23:23 - INFO - Registering job with ID: job_id_91
+2024-04-09 13:23:23 - INFO - Job job_id_91 added to the queue.
+2024-04-09 13:23:23 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:23 - INFO - Calculating state_mean_by_category for question: Percent of adults aged 18 years and older who have an overweight classification and state:
+        Georgia
+2024-04-09 13:23:23 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults aged 18 years and older who have an overweight classification and state: Georgia
+2024-04-09 13:23:23 - INFO - Received request (GET) for job results - JobID: job_id_91.
+2024-04-09 13:23:23 - INFO - Job job_id_91 is still running or the result file is not yet available.
+2024-04-09 13:23:23 - INFO - Result for job job_id_91 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_91.json.
+2024-04-09 13:23:23 - INFO - Successfully processed job job_id_91 in 0.53 seconds.
+2024-04-09 13:23:23 - INFO - Received request (GET) for job results - JobID: job_id_91.
+2024-04-09 13:23:23 - INFO - Job job_id_91 is done.
+2024-04-09 13:23:23 - INFO - -------------------
+2024-04-09 13:23:23 - INFO - Received request (POST) for state_mean_by_category with data: {'question': 'Percent of adults aged 18 years and older who have obesity', 'state': 'Oklahoma'}
+2024-04-09 13:23:23 - INFO - Registering job with ID: job_id_92
+2024-04-09 13:23:23 - INFO - Job job_id_92 added to the queue.
+2024-04-09 13:23:23 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:23 - INFO - Calculating state_mean_by_category for question: Percent of adults aged 18 years and older who have obesity and state:
+        Oklahoma
+2024-04-09 13:23:23 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults aged 18 years and older who have obesity and state: Oklahoma
+2024-04-09 13:23:23 - INFO - Received request (GET) for job results - JobID: job_id_92.
+2024-04-09 13:23:23 - INFO - Result for job job_id_92 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_92.json.
+2024-04-09 13:23:23 - INFO - Successfully processed job job_id_92 in 0.74 seconds.
+2024-04-09 13:23:23 - INFO - Job job_id_92 is done.
+2024-04-09 13:23:23 - INFO - -------------------
+2024-04-09 13:23:23 - INFO - Received request (POST) for state_mean_by_category with data: {'question': 'Percent of adults aged 18 years and older who have obesity', 'state': 'Wisconsin'}
+2024-04-09 13:23:23 - INFO - Registering job with ID: job_id_93
+2024-04-09 13:23:23 - INFO - Job job_id_93 added to the queue.
+2024-04-09 13:23:23 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:23 - INFO - Calculating state_mean_by_category for question: Percent of adults aged 18 years and older who have obesity and state:
+        Wisconsin
+2024-04-09 13:23:23 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults aged 18 years and older who have obesity and state: Wisconsin
+2024-04-09 13:23:23 - INFO - Received request (GET) for job results - JobID: job_id_93.
+2024-04-09 13:23:23 - INFO - Result for job job_id_93 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_93.json.
+2024-04-09 13:23:23 - INFO - Job job_id_93 is done.
+2024-04-09 13:23:23 - INFO - Successfully processed job job_id_93 in 0.74 seconds.
+2024-04-09 13:23:23 - INFO - -------------------
+2024-04-09 13:23:23 - INFO - Received request (POST) for state_mean_by_category with data: {'question': 'Percent of adults aged 18 years and older who have obesity', 'state': 'Connecticut'}
+2024-04-09 13:23:23 - INFO - Registering job with ID: job_id_94
+2024-04-09 13:23:23 - INFO - Job job_id_94 added to the queue.
+2024-04-09 13:23:23 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:23 - INFO - Calculating state_mean_by_category for question: Percent of adults aged 18 years and older who have obesity and state:
+        Connecticut
+2024-04-09 13:23:23 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults aged 18 years and older who have obesity and state: Connecticut
+2024-04-09 13:23:23 - INFO - Received request (GET) for job results - JobID: job_id_94.
+2024-04-09 13:23:23 - INFO - Result for job job_id_94 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_94.json.
+2024-04-09 13:23:23 - INFO - Successfully processed job job_id_94 in 0.74 seconds.
+2024-04-09 13:23:23 - INFO - Job job_id_94 is done.
+2024-04-09 13:23:23 - INFO - -------------------
+2024-04-09 13:23:23 - INFO - Received request (POST) for state_mean_by_category with data: {'question': 'Percent of adults aged 18 years and older who have obesity', 'state': 'Georgia'}
+2024-04-09 13:23:23 - INFO - Registering job with ID: job_id_95
+2024-04-09 13:23:23 - INFO - Job job_id_95 added to the queue.
+2024-04-09 13:23:23 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:23 - INFO - Calculating state_mean_by_category for question: Percent of adults aged 18 years and older who have obesity and state:
+        Georgia
+2024-04-09 13:23:23 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults aged 18 years and older who have obesity and state: Georgia
+2024-04-09 13:23:23 - INFO - Received request (GET) for job results - JobID: job_id_95.
+2024-04-09 13:23:23 - INFO - Result for job job_id_95 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_95.json.
+2024-04-09 13:23:23 - INFO - Successfully processed job job_id_95 in 0.74 seconds.
+2024-04-09 13:23:23 - INFO - Job job_id_95 is done.
+2024-04-09 13:23:23 - INFO - -------------------
+2024-04-09 13:23:23 - INFO - Received request (POST) for state_mean_by_category with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week', 'state': 'Oklahoma'}
+2024-04-09 13:23:23 - INFO - Registering job with ID: job_id_96
+2024-04-09 13:23:23 - INFO - Job job_id_96 added to the queue.
+2024-04-09 13:23:23 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:23 - INFO - Calculating state_mean_by_category for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week and state:
+        Oklahoma
+2024-04-09 13:23:23 - INFO - Calculated mean for each segment from each category for question:
+        Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week and state: Oklahoma
+2024-04-09 13:23:23 - INFO - Received request (GET) for job results - JobID: job_id_96.
+2024-04-09 13:23:23 - INFO - Job job_id_96 is still running or the result file is not yet available.
+2024-04-09 13:23:23 - INFO - Result for job job_id_96 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_96.json.
+2024-04-09 13:23:23 - INFO - Successfully processed job job_id_96 in 0.74 seconds.
+2024-04-09 13:23:23 - INFO - Received request (GET) for job results - JobID: job_id_96.
+2024-04-09 13:23:23 - INFO - Job job_id_96 is done.
+2024-04-09 13:23:24 - INFO - -------------------
+2024-04-09 13:23:24 - INFO - Received request (POST) for states_mean with data: {'question': 'Percent of adults aged 18 years and older who have an overweight classification'}
+2024-04-09 13:23:24 - INFO - Registering job with ID: job_id_97
+2024-04-09 13:23:24 - INFO - Job job_id_97 added to the queue.
+2024-04-09 13:23:24 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:24 - INFO - Calculating states_means for question: Percent of adults aged 18 years and older who have an overweight classification
+2024-04-09 13:23:24 - INFO - Received request (GET) for job results - JobID: job_id_97.
+2024-04-09 13:23:24 - INFO - Calculated states_means and sorted for question: Percent of adults aged 18 years and older who have an overweight classification
+2024-04-09 13:23:24 - INFO - Job job_id_97 is still running or the result file is not yet available.
+2024-04-09 13:23:24 - INFO - Result for job job_id_97 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_97.json.
+2024-04-09 13:23:24 - INFO - Successfully processed job job_id_97 in 0.76 seconds.
+2024-04-09 13:23:24 - INFO - Received request (GET) for job results - JobID: job_id_97.
+2024-04-09 13:23:24 - INFO - Job job_id_97 is done.
+2024-04-09 13:23:24 - INFO - -------------------
+2024-04-09 13:23:24 - INFO - Received request (POST) for states_mean with data: {'question': 'Percent of adults aged 18 years and older who have obesity'}
+2024-04-09 13:23:24 - INFO - Registering job with ID: job_id_98
+2024-04-09 13:23:24 - INFO - Job job_id_98 added to the queue.
+2024-04-09 13:23:24 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:24 - INFO - Calculating states_means for question: Percent of adults aged 18 years and older who have obesity
+2024-04-09 13:23:24 - INFO - Received request (GET) for job results - JobID: job_id_98.
+2024-04-09 13:23:24 - INFO - Calculated states_means and sorted for question: Percent of adults aged 18 years and older who have obesity
+2024-04-09 13:23:24 - INFO - Job job_id_98 is still running or the result file is not yet available.
+2024-04-09 13:23:24 - INFO - Result for job job_id_98 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_98.json.
+2024-04-09 13:23:24 - INFO - Successfully processed job job_id_98 in 0.76 seconds.
+2024-04-09 13:23:24 - INFO - Received request (GET) for job results - JobID: job_id_98.
+2024-04-09 13:23:24 - INFO - Job job_id_98 is done.
+2024-04-09 13:23:24 - INFO - -------------------
+2024-04-09 13:23:24 - INFO - Received request (POST) for states_mean with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)'}
+2024-04-09 13:23:24 - INFO - Registering job with ID: job_id_99
+2024-04-09 13:23:24 - INFO - Job job_id_99 added to the queue.
+2024-04-09 13:23:24 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:24 - INFO - Calculating states_means for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:24 - INFO - Calculated states_means and sorted for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:24 - INFO - Received request (GET) for job results - JobID: job_id_99.
+2024-04-09 13:23:24 - INFO - Result for job job_id_99 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_99.json.
+2024-04-09 13:23:24 - INFO - Successfully processed job job_id_99 in 0.97 seconds.
+2024-04-09 13:23:24 - INFO - Job job_id_99 is done.
+2024-04-09 13:23:24 - INFO - -------------------
+2024-04-09 13:23:24 - INFO - Received request (POST) for states_mean with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week'}
+2024-04-09 13:23:24 - INFO - Registering job with ID: job_id_100
+2024-04-09 13:23:24 - INFO - Job job_id_100 added to the queue.
+2024-04-09 13:23:24 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:24 - INFO - Calculating states_means for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:24 - INFO - Received request (GET) for job results - JobID: job_id_100.
+2024-04-09 13:23:24 - INFO - Calculated states_means and sorted for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:24 - INFO - Job job_id_100 is still running or the result file is not yet available.
+2024-04-09 13:23:24 - INFO - Result for job job_id_100 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_100.json.
+2024-04-09 13:23:24 - INFO - Successfully processed job job_id_100 in 0.76 seconds.
+2024-04-09 13:23:24 - INFO - Received request (GET) for job results - JobID: job_id_100.
+2024-04-09 13:23:24 - INFO - Job job_id_100 is done.
+2024-04-09 13:23:24 - INFO - -------------------
+2024-04-09 13:23:24 - INFO - Received request (POST) for states_mean with data: {'question': 'Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)'}
+2024-04-09 13:23:24 - INFO - Registering job with ID: job_id_101
+2024-04-09 13:23:24 - INFO - Job job_id_101 added to the queue.
+2024-04-09 13:23:24 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:24 - INFO - Calculating states_means for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:24 - INFO - Calculated states_means and sorted for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:24 - INFO - Received request (GET) for job results - JobID: job_id_101.
+2024-04-09 13:23:24 - INFO - Job job_id_101 is still running or the result file is not yet available.
+2024-04-09 13:23:24 - INFO - Result for job job_id_101 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_101.json.
+2024-04-09 13:23:24 - INFO - Successfully processed job job_id_101 in 0.97 seconds.
+2024-04-09 13:23:24 - INFO - Received request (GET) for job results - JobID: job_id_101.
+2024-04-09 13:23:24 - INFO - Job job_id_101 is done.
+2024-04-09 13:23:24 - INFO - -------------------
+2024-04-09 13:23:24 - INFO - Received request (POST) for states_mean with data: {'question': 'Percent of adults who engage in muscle-strengthening activities on 2 or more days a week'}
+2024-04-09 13:23:24 - INFO - Registering job with ID: job_id_102
+2024-04-09 13:23:24 - INFO - Job job_id_102 added to the queue.
+2024-04-09 13:23:24 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:24 - INFO - Calculating states_means for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:24 - INFO - Calculated states_means and sorted for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:24 - INFO - Received request (GET) for job results - JobID: job_id_102.
+2024-04-09 13:23:24 - INFO - Job job_id_102 is still running or the result file is not yet available.
+2024-04-09 13:23:24 - INFO - Result for job job_id_102 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_102.json.
+2024-04-09 13:23:24 - INFO - Successfully processed job job_id_102 in 1.18 seconds.
+2024-04-09 13:23:25 - INFO - Received request (GET) for job results - JobID: job_id_102.
+2024-04-09 13:23:25 - INFO - Job job_id_102 is done.
+2024-04-09 13:23:25 - INFO - -------------------
+2024-04-09 13:23:25 - INFO - Received request (POST) for states_mean with data: {'question': 'Percent of adults who engage in no leisure-time physical activity'}
+2024-04-09 13:23:25 - INFO - Registering job with ID: job_id_103
+2024-04-09 13:23:25 - INFO - Job job_id_103 added to the queue.
+2024-04-09 13:23:25 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:25 - INFO - Calculating states_means for question: Percent of adults who engage in no leisure-time physical activity
+2024-04-09 13:23:25 - INFO - Received request (GET) for job results - JobID: job_id_103.
+2024-04-09 13:23:25 - INFO - Calculated states_means and sorted for question: Percent of adults who engage in no leisure-time physical activity
+2024-04-09 13:23:25 - INFO - Job job_id_103 is still running or the result file is not yet available.
+2024-04-09 13:23:25 - INFO - Result for job job_id_103 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_103.json.
+2024-04-09 13:23:25 - INFO - Successfully processed job job_id_103 in 1.39 seconds.
+2024-04-09 13:23:25 - INFO - Received request (GET) for job results - JobID: job_id_103.
+2024-04-09 13:23:25 - INFO - Job job_id_103 is done.
+2024-04-09 13:23:25 - INFO - -------------------
+2024-04-09 13:23:25 - INFO - Received request (POST) for states_mean with data: {'question': 'Percent of adults who report consuming fruit less than one time daily'}
+2024-04-09 13:23:25 - INFO - Registering job with ID: job_id_104
+2024-04-09 13:23:25 - INFO - Job job_id_104 added to the queue.
+2024-04-09 13:23:25 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:25 - INFO - Calculating states_means for question: Percent of adults who report consuming fruit less than one time daily
+2024-04-09 13:23:25 - INFO - Calculated states_means and sorted for question: Percent of adults who report consuming fruit less than one time daily
+2024-04-09 13:23:25 - INFO - Received request (GET) for job results - JobID: job_id_104.
+2024-04-09 13:23:25 - INFO - Result for job job_id_104 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_104.json.
+2024-04-09 13:23:25 - INFO - Job job_id_104 is done.
+2024-04-09 13:23:25 - INFO - Successfully processed job job_id_104 in 1.61 seconds.
+2024-04-09 13:23:25 - INFO - -------------------
+2024-04-09 13:23:25 - INFO - Received request (POST) for states_mean with data: {'question': 'Percent of adults who report consuming vegetables less than one time daily'}
+2024-04-09 13:23:25 - INFO - Registering job with ID: job_id_105
+2024-04-09 13:23:25 - INFO - Job job_id_105 added to the queue.
+2024-04-09 13:23:25 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:25 - INFO - Calculating states_means for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:25 - INFO - Calculated states_means and sorted for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:25 - INFO - Received request (GET) for job results - JobID: job_id_105.
+2024-04-09 13:23:25 - INFO - Result for job job_id_105 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_105.json.
+2024-04-09 13:23:25 - INFO - Job job_id_105 is done.
+2024-04-09 13:23:25 - INFO - Successfully processed job job_id_105 in 1.39 seconds.
+2024-04-09 13:23:25 - INFO - -------------------
+2024-04-09 13:23:25 - INFO - Received request (POST) for worst5 with data: {'question': 'Percent of adults aged 18 years and older who have an overweight classification'}
+2024-04-09 13:23:25 - INFO - Registering job with ID: job_id_106
+2024-04-09 13:23:25 - INFO - Job job_id_106 added to the queue.
+2024-04-09 13:23:25 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:25 - INFO - Calculating worst5 for question: Percent of adults aged 18 years and older who have an overweight classification
+2024-04-09 13:23:25 - INFO - Calculating states_means for question: Percent of adults aged 18 years and older who have an overweight classification
+2024-04-09 13:23:25 - INFO - Received request (GET) for job results - JobID: job_id_106.
+2024-04-09 13:23:25 - INFO - Calculated states_means and sorted for question: Percent of adults aged 18 years and older who have an overweight classification
+2024-04-09 13:23:25 - INFO - Job job_id_106 is still running or the result file is not yet available.
+2024-04-09 13:23:25 - INFO - Calculated last 5 values for question: Percent of adults aged 18 years and older who have an overweight classification
+2024-04-09 13:23:25 - INFO - Result for job job_id_106 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_106.json.
+2024-04-09 13:23:25 - INFO - Successfully processed job job_id_106 in 1.20 seconds.
+2024-04-09 13:23:25 - INFO - Received request (GET) for job results - JobID: job_id_106.
+2024-04-09 13:23:25 - INFO - Job job_id_106 is done.
+2024-04-09 13:23:25 - INFO - -------------------
+2024-04-09 13:23:25 - INFO - Received request (POST) for worst5 with data: {'question': 'Percent of adults aged 18 years and older who have obesity'}
+2024-04-09 13:23:25 - INFO - Registering job with ID: job_id_107
+2024-04-09 13:23:25 - INFO - Job job_id_107 added to the queue.
+2024-04-09 13:23:25 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:25 - INFO - Calculating worst5 for question: Percent of adults aged 18 years and older who have obesity
+2024-04-09 13:23:25 - INFO - Calculating states_means for question: Percent of adults aged 18 years and older who have obesity
+2024-04-09 13:23:25 - INFO - Received request (GET) for job results - JobID: job_id_107.
+2024-04-09 13:23:25 - INFO - Calculated states_means and sorted for question: Percent of adults aged 18 years and older who have obesity
+2024-04-09 13:23:25 - INFO - Job job_id_107 is still running or the result file is not yet available.
+2024-04-09 13:23:25 - INFO - Calculated last 5 values for question: Percent of adults aged 18 years and older who have obesity
+2024-04-09 13:23:25 - INFO - Result for job job_id_107 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_107.json.
+2024-04-09 13:23:25 - INFO - Successfully processed job job_id_107 in 1.21 seconds.
+2024-04-09 13:23:25 - INFO - Received request (GET) for job results - JobID: job_id_107.
+2024-04-09 13:23:25 - INFO - Job job_id_107 is done.
+2024-04-09 13:23:25 - INFO - -------------------
+2024-04-09 13:23:25 - INFO - Received request (POST) for worst5 with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)'}
+2024-04-09 13:23:25 - INFO - Registering job with ID: job_id_108
+2024-04-09 13:23:25 - INFO - Job job_id_108 added to the queue.
+2024-04-09 13:23:25 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:25 - INFO - Calculating worst5 for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:25 - INFO - Calculating states_means for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:25 - INFO - Received request (GET) for job results - JobID: job_id_108.
+2024-04-09 13:23:25 - INFO - Calculated states_means and sorted for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:25 - INFO - Job job_id_108 is still running or the result file is not yet available.
+2024-04-09 13:23:25 - INFO - Calculated last 5 values for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:25 - INFO - Result for job job_id_108 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_108.json.
+2024-04-09 13:23:25 - INFO - Successfully processed job job_id_108 in 1.43 seconds.
+2024-04-09 13:23:26 - INFO - Received request (GET) for job results - JobID: job_id_108.
+2024-04-09 13:23:26 - INFO - Job job_id_108 is done.
+2024-04-09 13:23:26 - INFO - -------------------
+2024-04-09 13:23:26 - INFO - Received request (POST) for worst5 with data: {'question': 'Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week'}
+2024-04-09 13:23:26 - INFO - Registering job with ID: job_id_109
+2024-04-09 13:23:26 - INFO - Job job_id_109 added to the queue.
+2024-04-09 13:23:26 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:26 - INFO - Calculating worst5 for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:26 - INFO - Calculating states_means for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:26 - INFO - Received request (GET) for job results - JobID: job_id_109.
+2024-04-09 13:23:26 - INFO - Calculated states_means and sorted for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:26 - INFO - Job job_id_109 is still running or the result file is not yet available.
+2024-04-09 13:23:26 - INFO - Calculated last 5 values for question: Percent of adults who achieve at least 150 minutes a week of moderate-intensity aerobic physical activity or 75 minutes a week of vigorous-intensity aerobic physical activity and engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:26 - INFO - Result for job job_id_109 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_109.json.
+2024-04-09 13:23:26 - INFO - Successfully processed job job_id_109 in 1.43 seconds.
+2024-04-09 13:23:26 - INFO - Received request (GET) for job results - JobID: job_id_109.
+2024-04-09 13:23:26 - INFO - Job job_id_109 is done.
+2024-04-09 13:23:26 - INFO - -------------------
+2024-04-09 13:23:26 - INFO - Received request (POST) for worst5 with data: {'question': 'Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)'}
+2024-04-09 13:23:26 - INFO - Registering job with ID: job_id_110
+2024-04-09 13:23:26 - INFO - Job job_id_110 added to the queue.
+2024-04-09 13:23:26 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:26 - INFO - Calculating worst5 for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:26 - INFO - Calculating states_means for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:26 - INFO - Received request (GET) for job results - JobID: job_id_110.
+2024-04-09 13:23:26 - INFO - Calculated states_means and sorted for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:26 - INFO - Job job_id_110 is still running or the result file is not yet available.
+2024-04-09 13:23:26 - INFO - Calculated last 5 values for question: Percent of adults who achieve at least 300 minutes a week of moderate-intensity aerobic physical activity or 150 minutes a week of vigorous-intensity aerobic activity (or an equivalent combination)
+2024-04-09 13:23:26 - INFO - Result for job job_id_110 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_110.json.
+2024-04-09 13:23:26 - INFO - Successfully processed job job_id_110 in 1.42 seconds.
+2024-04-09 13:23:26 - INFO - Received request (GET) for job results - JobID: job_id_110.
+2024-04-09 13:23:26 - INFO - Job job_id_110 is done.
+2024-04-09 13:23:26 - INFO - -------------------
+2024-04-09 13:23:26 - INFO - Received request (POST) for worst5 with data: {'question': 'Percent of adults who engage in muscle-strengthening activities on 2 or more days a week'}
+2024-04-09 13:23:26 - INFO - Registering job with ID: job_id_111
+2024-04-09 13:23:26 - INFO - Job job_id_111 added to the queue.
+2024-04-09 13:23:26 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:26 - INFO - Calculating worst5 for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:26 - INFO - Calculating states_means for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:26 - INFO - Received request (GET) for job results - JobID: job_id_111.
+2024-04-09 13:23:26 - INFO - Calculated states_means and sorted for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:26 - INFO - Job job_id_111 is still running or the result file is not yet available.
+2024-04-09 13:23:26 - INFO - Calculated last 5 values for question: Percent of adults who engage in muscle-strengthening activities on 2 or more days a week
+2024-04-09 13:23:26 - INFO - Result for job job_id_111 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_111.json.
+2024-04-09 13:23:26 - INFO - Successfully processed job job_id_111 in 1.42 seconds.
+2024-04-09 13:23:26 - INFO - Received request (GET) for job results - JobID: job_id_111.
+2024-04-09 13:23:26 - INFO - Job job_id_111 is done.
+2024-04-09 13:23:26 - INFO - -------------------
+2024-04-09 13:23:26 - INFO - Received request (POST) for worst5 with data: {'question': 'Percent of adults who engage in no leisure-time physical activity'}
+2024-04-09 13:23:26 - INFO - Registering job with ID: job_id_112
+2024-04-09 13:23:26 - INFO - Job job_id_112 added to the queue.
+2024-04-09 13:23:26 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:26 - INFO - Calculating worst5 for question: Percent of adults who engage in no leisure-time physical activity
+2024-04-09 13:23:26 - INFO - Calculating states_means for question: Percent of adults who engage in no leisure-time physical activity
+2024-04-09 13:23:26 - INFO - Calculated states_means and sorted for question: Percent of adults who engage in no leisure-time physical activity
+2024-04-09 13:23:26 - INFO - Received request (GET) for job results - JobID: job_id_112.
+2024-04-09 13:23:26 - INFO - Calculated last 5 values for question: Percent of adults who engage in no leisure-time physical activity
+2024-04-09 13:23:26 - INFO - Job job_id_112 is still running or the result file is not yet available.
+2024-04-09 13:23:26 - INFO - Result for job job_id_112 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_112.json.
+2024-04-09 13:23:26 - INFO - Successfully processed job job_id_112 in 1.40 seconds.
+2024-04-09 13:23:26 - INFO - Received request (GET) for job results - JobID: job_id_112.
+2024-04-09 13:23:26 - INFO - Job job_id_112 is done.
+2024-04-09 13:23:27 - INFO - -------------------
+2024-04-09 13:23:27 - INFO - Received request (POST) for worst5 with data: {'question': 'Percent of adults who report consuming fruit less than one time daily'}
+2024-04-09 13:23:27 - INFO - Registering job with ID: job_id_113
+2024-04-09 13:23:27 - INFO - Job job_id_113 added to the queue.
+2024-04-09 13:23:27 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:27 - INFO - Calculating worst5 for question: Percent of adults who report consuming fruit less than one time daily
+2024-04-09 13:23:27 - INFO - Calculating states_means for question: Percent of adults who report consuming fruit less than one time daily
+2024-04-09 13:23:27 - INFO - Calculated states_means and sorted for question: Percent of adults who report consuming fruit less than one time daily
+2024-04-09 13:23:27 - INFO - Received request (GET) for job results - JobID: job_id_113.
+2024-04-09 13:23:27 - INFO - Calculated last 5 values for question: Percent of adults who report consuming fruit less than one time daily
+2024-04-09 13:23:27 - INFO - Job job_id_113 is still running or the result file is not yet available.
+2024-04-09 13:23:27 - INFO - Result for job job_id_113 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_113.json.
+2024-04-09 13:23:27 - INFO - Successfully processed job job_id_113 in 1.61 seconds.
+2024-04-09 13:23:27 - INFO - Received request (GET) for job results - JobID: job_id_113.
+2024-04-09 13:23:27 - INFO - Job job_id_113 is done.
+2024-04-09 13:23:27 - INFO - -------------------
+2024-04-09 13:23:27 - INFO - Received request (POST) for worst5 with data: {'question': 'Percent of adults who report consuming vegetables less than one time daily'}
+2024-04-09 13:23:27 - INFO - Registering job with ID: job_id_114
+2024-04-09 13:23:27 - INFO - Job job_id_114 added to the queue.
+2024-04-09 13:23:27 - INFO - Starting to process job {job_id} with data {job_data}
+2024-04-09 13:23:27 - INFO - Calculating worst5 for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:27 - INFO - Calculating states_means for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:27 - INFO - Calculated states_means and sorted for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:27 - INFO - Received request (GET) for job results - JobID: job_id_114.
+2024-04-09 13:23:27 - INFO - Calculated last 5 values for question: Percent of adults who report consuming vegetables less than one time daily
+2024-04-09 13:23:27 - INFO - Job job_id_114 is still running or the result file is not yet available.
+2024-04-09 13:23:27 - INFO - Result for job job_id_114 saved to D:\ASC\Tema1\asc-public\assignments\1-le-stats-sportif\results\job_id_114.json.
+2024-04-09 13:23:27 - INFO - Successfully processed job job_id_114 in 1.80 seconds.
+2024-04-09 13:23:27 - INFO - Received request (GET) for job results - JobID: job_id_114.
+2024-04-09 13:23:27 - INFO - Job job_id_114 is done.
